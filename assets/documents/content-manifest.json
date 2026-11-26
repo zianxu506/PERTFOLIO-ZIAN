@@ -1,0 +1,4175 @@
+[
+  {
+    "page": 1,
+    "title": "Cover",
+    "text": "SCI-Arc\n2024-2026\nZian Xu\nPortfolio\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-001.jpeg",
+        "sha256": "bb1684cd1091131104b00d0d47f7cbf8a2f768073c98a229d8820b5a8769df9d",
+        "width": 742,
+        "height": 1048,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p01-art-01.webp",
+        "width": 1786,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "title": "Portfolio / Contact",
+    "text": "SCI-ARC\n2024-2026\nZian_Xu@Sciarc.edu \n(213)326-8697\nZian Xu\nPortfolio\n",
+    "textBlocks": 3,
+    "images": [],
+    "vectorPaths": 0,
+    "webArtwork": []
+  },
+  {
+    "page": 3,
+    "title": "Statement",
+    "text": "I came to SCI-Arc with an interest in architec­\nture, but not a clear idea of what it could be be­\nyond finished buildings. Living in Downtown \nLos Angeles started to shift that. The city’s \ndensity, infrastructure, and constant movement \nmade me more aware of how space is shaped \nby use, circulation, and change, rather than fixed \nform.\nIn the studio, I began to understand architecture \nas a process. I moved between drawing, model­\ning, and making, using both digital and physical \ntools to test ideas. Some projects were abstract, \ntranslating images into 3D forms or using simple \noperations to generate spatial models, while oth­\ners focused on site and program, like an elemen­\ntary school or a public pool. Working between \nthese approaches made the process feel iterative \nrather than linear.\nMaterial and environmental thinking also be­\ncame important. Through fabrication, I worked \nwith papier-mâché and casting, eventually \nbuilding a full-scale chair. In another studio, I \nmapped flora and fauna and used that to devel­\nop a fitness center that integrates wind energy. \nThese projects pushed me to think about archi­\ntecture as part of larger environmental systems. \nAt the same time, I explored how to represent \nwork through photography and layout, using \ntools like robotic cameras to capture models un­\nder different lighting. Looking back, these expe­\nriences are less about final outcomes and more \nabout how I think and work.\nIn the future, I want to continue working this \nway, developing projects that connect environ­\nmental systems, material experimentation, and \nspatial design.\nStatement\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-002.png",
+        "sha256": "4daf1506bc60a84e5f7452bb2051235187b0fab2a04d0318273366074d520850",
+        "width": 894,
+        "height": 842,
+        "bbox": [
+          0.0,
+          0.0,
+          893.9130249023438,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-003.png",
+        "sha256": "1abfddd12e7c0ff0acda62bd8a12c3cbcbe03eb50678c2f44b22636dc3406180",
+        "width": 893,
+        "height": 842,
+        "bbox": [
+          0.0,
+          0.0,
+          892.9140014648438,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-004.jpeg",
+        "sha256": "265752c5bd5bc05cf4722ef093b5383220bc34b4bccc36e626860b1386a50086",
+        "width": 1106,
+        "height": 1042,
+        "bbox": [
+          0.0,
+          0.0,
+          892.9129638671875,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p03-art-01.webp",
+        "width": 2682,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          893.9130249023438,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "title": "Contents",
+    "text": "P104-107\nP108-115\nHistory of Architecture I\nP90-103\n1A Studio: Interactions I\nHistory Theory\nLiberal Arts\nForms of Writing I\nP66-83\nP84-89\nP40-57\nP58-65\nP08-31\nP32-39\n2A Studio: Environments I\nVisual Studies II\n1B Studio: Interactions II\nVisual Studies I\nSpring 2025\nFall 2024\nFall 2025\n2B Studio: Environments II\nVisual Studies III\nSpring 2026\nContents\n",
+    "textBlocks": 14,
+    "images": [],
+    "vectorPaths": 0,
+    "webArtwork": []
+  },
+  {
+    "page": 5,
+    "title": "Environments II",
+    "text": "In this studio, we explore how architecture can \nrespond to ecological and environmental con­\nditions within complex urban contexts. The site \nis analyzed through its flora and fauna, using \ngraphics and color mapping to represent spe­\ncies and environmental zones. Precedents are \nstudied and reinterpreted with techniques like \npixel sorting, generating abstract images that \ntranslate environmental data into visual form. \nThese images guide the development of initial \n3D-printed models, which are then refined into \na fitness center that responds to both program \nand environment. The design incorporates sus­\ntainable strategies, including wind energy gen­\neration. Unreal Engine renders visualize the \nbuilding in its context, highlighting architec­\nture as part of a larger ecological system con­\nnecting design, energy, and landscape.\nZian Xu\nJustin Hsu\nSpring 2026\nTeam:\nSemester:\nJennifer Chen\nAngelica Lorenzi\nKordae Henry\nPeter Trummer\nWilliam Virgil\nInstructors:\n2B STUDIO\nEnvironments II\n8\n9\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 10,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-005.png",
+        "sha256": "12e7a492e93ea6ea9b81c417e7ca425d313737def2bb275db030cdca7ddcd653",
+        "width": 1191,
+        "height": 842,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-006.jpeg",
+        "sha256": "121c06a622c872297b012dec43bc397198b02b7c5d9a04bd6248ed17676986bb",
+        "width": 1492,
+        "height": 1048,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p05-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "title": "Site Analysis · Flora & Fauna",
+    "text": "10\n11\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-007.jpeg",
+        "sha256": "dc2c02079e9daad2877b03e035464b7afdef09ecbfc7cb38651d52766c433ed0",
+        "width": 5209,
+        "height": 3467,
+        "bbox": [
+          28.34600067138672,
+          42.52001953125,
+          1162.2049560546875,
+          799.3710327148438
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-008.png",
+        "sha256": "fa520436a69ab326424e6f0edc9986bd3e97a6e6c3115e9a6c03b919ccdd16a1",
+        "width": 88,
+        "height": 62,
+        "bbox": [
+          1046.6180419921875,
+          42.52001953125,
+          1162.205078125,
+          101.54022216796875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-009.png",
+        "sha256": "ee8f30f2dd82ead6806f9bc6fe5a5cde6fe19f5b1ef18c5ed8169c41a536c21f",
+        "width": 191,
+        "height": 12,
+        "bbox": [
+          28.346458435058594,
+          792.8506469726562,
+          141.73199462890625,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p06-art-01.webp",
+        "width": 2801,
+        "height": 1869,
+        "bbox": [
+          28.34600067138672,
+          42.52001953125,
+          1162.205078125,
+          799.3710327148438
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "title": "Pixel Sorting / Axonometric",
+    "text": "Axonometric\n13\n12\n2B\nEnvironments II\nSCI-Arc\nZian Xu\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-010.jpeg",
+        "sha256": "7e3037a524346362d9e5d3432ede23795dfd3019706bdf3bb6b1fca16c40c147",
+        "width": 2485,
+        "height": 3517,
+        "bbox": [
+          595.2755126953125,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-011.png",
+        "sha256": "93c00ace428ecf4231d07f8878f768dc434581f9207c915ed1b2df77a3effe85",
+        "width": 1298,
+        "height": 917,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p07-art-01.webp",
+        "width": 1786,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p07-art-02.webp",
+        "width": 1787,
+        "height": 2526,
+        "bbox": [
+          595.2755126953125,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "title": "Room Section / Building Section",
+    "text": "Room Section\nBuilding Section\n14\n15\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-012.png",
+        "sha256": "888264662aef74b22351cf2e10d3d54918cbef6824a532fd8f5a228ce9fb4a18",
+        "width": 2360,
+        "height": 3163,
+        "bbox": [
+          612.2830200195312,
+          42.52001953125,
+          1176.3779296875,
+          799.3710327148438
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-013.jpeg",
+        "sha256": "e402da5d00f6e43c869562fc210c6dfaba904f0c15f97cdb7b9c027a4d8be0c7",
+        "width": 2360,
+        "height": 3163,
+        "bbox": [
+          14.17300033569336,
+          42.51898193359375,
+          578.2679443359375,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p08-art-01.webp",
+        "width": 1693,
+        "height": 2272,
+        "bbox": [
+          14.17300033569336,
+          42.51898193359375,
+          578.2679443359375,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p08-art-02.webp",
+        "width": 1694,
+        "height": 2272,
+        "bbox": [
+          612.2830200195312,
+          42.52001953125,
+          1176.3779296875,
+          799.3710327148438
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "title": "Model Studies",
+    "text": "16\n17\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-014.jpeg",
+        "sha256": "aa275c2507f6c2068df70a4177244aa581fa29f5aaacf336a6eea46ae7f687ec",
+        "width": 3246,
+        "height": 4594,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-015.jpeg",
+        "sha256": "f3c5275ba5524ea94df872a303d40cc3cfcaad92bdda6d969863a7391a6d53b7",
+        "width": 2485,
+        "height": 3518,
+        "bbox": [
+          595.275634765625,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 1,
+    "webArtwork": [
+      {
+        "src": "assets/images/p09-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "title": "Axonometric Drawing",
+    "text": "Axonometric Drawing\n18\n19\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-016.png",
+        "sha256": "d3e7d0ce8498b833655a9b28fbd35864e88fc0aee1bed8cddd4b3a4a28bb8ca3",
+        "width": 4970,
+        "height": 3513,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 1,
+    "webArtwork": [
+      {
+        "src": "assets/images/p10-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "title": "Second Floor Plan / Top Floor Plan",
+    "text": "Second Floor Plan\nTop Floor Plan\nThis plan highlights the integration of secondary program elements and energy-har­\nvesting zones. The spacing between volumes is strategically tightened to create \naccelerated airflow for the integrated wind turbines. This layout coordinates the \nvertical stack effect through the central spine while managing the closed-loop water \nsystem that facilitates thermal exchange between the plant rooms and the pool.\nThis level establishes the central spine as the primary infrastructural axis of the \nbuilding. The basketball courts are positioned as large-volume “lungs” to maximize \nnatural air intake and cross-ventilation. Supporting programs, including the restau­\nrant and retail units, branch directly from the core to ensure efficient circulation and \nstreamlined service distribution across the floor plate.\n20\n21\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-017.jpeg",
+        "sha256": "bd148101dad8d509dd2b8ea549d7478c90fd9dc3ff52112b70564e8f722fa395",
+        "width": 2249,
+        "height": 1501,
+        "bbox": [
+          623.6220703125,
+          139.7840576171875,
+          1162.205078125,
+          498.8390197753906
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-018.jpeg",
+        "sha256": "0f98b7414dbff5338f270e4e83f52a2a1e4e1ea06acf89e7819c79049ae116cc",
+        "width": 2245,
+        "height": 1497,
+        "bbox": [
+          28.346435546875,
+          139.7840576171875,
+          566.9290161132812,
+          497.8940124511719
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-019.png",
+        "sha256": "e930805eee97867ca92ee6fefb4d6da28d3f9081fa44481b0abc4086fb798956",
+        "width": 52,
+        "height": 115,
+        "bbox": [
+          54.54327392578125,
+          447.874267578125,
+          143.71600341796875,
+          485.1080322265625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-019.png",
+        "sha256": "e930805eee97867ca92ee6fefb4d6da28d3f9081fa44481b0abc4086fb798956",
+        "width": 52,
+        "height": 115,
+        "bbox": [
+          642.1653442382812,
+          453.1600036621094,
+          731.3379516601562,
+          490.3939514160156
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p11-art-01.webp",
+        "width": 1616,
+        "height": 1075,
+        "bbox": [
+          28.346435546875,
+          139.7840576171875,
+          566.9290161132812,
+          497.8940124511719
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p11-art-02.webp",
+        "width": 1617,
+        "height": 1078,
+        "bbox": [
+          623.6220703125,
+          139.7840576171875,
+          1162.205078125,
+          498.8390197753906
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "title": "Section",
+    "text": "Section\n22\n23\n﻿\n \n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-020.png",
+        "sha256": "a6b5374e23665232510b279368765499d1af5f4a82d240fd6bfa392447260b7f",
+        "width": 4970,
+        "height": 3517,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 1,
+    "webArtwork": [
+      {
+        "src": "assets/images/p12-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "title": "Wind & Water Cycle",
+    "text": "s\nWind&Water Cycle\n24\n25\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-021.png",
+        "sha256": "3434dd26a2459d701488a49e17b01249cebb2237c2b25cfe045baf941ad84acb",
+        "width": 5708,
+        "height": 3787,
+        "bbox": [
+          28.346435546875,
+          42.51995849609375,
+          1162.2039794921875,
+          793.7009887695312
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p13-art-01.webp",
+        "width": 2800,
+        "height": 1856,
+        "bbox": [
+          28.346435546875,
+          42.51995849609375,
+          1162.2039794921875,
+          793.7009887695312
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "title": "Unreal Engine / Exterior & Interior",
+    "text": "26\n27\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-022.jpeg",
+        "sha256": "8f18d15e407ac9dccdb502539780cc5956167e399a3fb836e732521bc173e403",
+        "width": 1739,
+        "height": 1051,
+        "bbox": [
+          28.34600067138672,
+          62.362060546875,
+          566.9290161132812,
+          386.92901611328125
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-023.jpeg",
+        "sha256": "20ae14d85e2eb6de9594d62827c73301ee6f952cbbc3310f4a5306783782851a",
+        "width": 1789,
+        "height": 1079,
+        "bbox": [
+          623.6220092773438,
+          62.3624267578125,
+          1161.2230224609375,
+          386.92901611328125
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-024.jpeg",
+        "sha256": "0edfd16f3dd04195cb020f288ee2631ad4b1815919b4f55a471c5f609b687771",
+        "width": 1800,
+        "height": 1080,
+        "bbox": [
+          28.34600067138672,
+          452.1261901855469,
+          566.9290161132812,
+          776.6929931640625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-025.jpeg",
+        "sha256": "747687e177c78b14408f0893f19c7d17964203ebcef8bb379c77e92c7c2ee557",
+        "width": 1792,
+        "height": 1080,
+        "bbox": [
+          623.6220092773438,
+          450.5317077636719,
+          1162.205078125,
+          776.6929931640625
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p14-art-01.webp",
+        "width": 1616,
+        "height": 974,
+        "bbox": [
+          28.34600067138672,
+          62.362060546875,
+          566.9290161132812,
+          386.92901611328125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p14-art-02.webp",
+        "width": 1614,
+        "height": 974,
+        "bbox": [
+          623.6220092773438,
+          62.3624267578125,
+          1161.2230224609375,
+          386.92901611328125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p14-art-03.webp",
+        "width": 1616,
+        "height": 975,
+        "bbox": [
+          28.34600067138672,
+          452.1261901855469,
+          566.9290161132812,
+          776.6929931640625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p14-art-04.webp",
+        "width": 1617,
+        "height": 980,
+        "bbox": [
+          623.6220092773438,
+          450.5317077636719,
+          1162.205078125,
+          776.6929931640625
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "title": "Unreal Engine / Spatial Studies",
+    "text": "28\n29\n﻿\n \n2B\nSCI-Arc\nZian Xu\nEnvironments II\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-026.jpeg",
+        "sha256": "6ea516530bd696d4a0931e80a069bef5ac7b055ee42b550ac688b47af403fd0a",
+        "width": 1792,
+        "height": 1080,
+        "bbox": [
+          28.34600067138672,
+          63.780029296875,
+          566.9290161132812,
+          389.9411926269531
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-027.jpeg",
+        "sha256": "2932e66a3ac88515164db1c6da5ad2b7365131f4a6c5f31ab53dab5a6585aea6",
+        "width": 1792,
+        "height": 1080,
+        "bbox": [
+          28.34600067138672,
+          453.27801513671875,
+          566.9290161132812,
+          779.4390258789062
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-028.jpeg",
+        "sha256": "2e07b04d500c3122c9d49eb577fb827be54c2c5610a835bf81a54d85cdaa7a26",
+        "width": 1792,
+        "height": 1080,
+        "bbox": [
+          623.6220092773438,
+          453.27801513671875,
+          1162.205078125,
+          779.4390258789062
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-029.jpeg",
+        "sha256": "95b04fa3f069a7c47fc6912eb1e0701d7127c0d9f335910219e32ef96b798a92",
+        "width": 1792,
+        "height": 1080,
+        "bbox": [
+          623.6220092773438,
+          63.780029296875,
+          1162.205078125,
+          389.9411926269531
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p15-art-01.webp",
+        "width": 1616,
+        "height": 979,
+        "bbox": [
+          28.34600067138672,
+          63.780029296875,
+          566.9290161132812,
+          389.9411926269531
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p15-art-02.webp",
+        "width": 1617,
+        "height": 979,
+        "bbox": [
+          623.6220092773438,
+          63.780029296875,
+          1162.205078125,
+          389.9411926269531
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p15-art-03.webp",
+        "width": 1616,
+        "height": 980,
+        "bbox": [
+          28.34600067138672,
+          453.27801513671875,
+          566.9290161132812,
+          779.4390258789062
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p15-art-04.webp",
+        "width": 1617,
+        "height": 980,
+        "bbox": [
+          623.6220092773438,
+          453.27801513671875,
+          1162.205078125,
+          779.4390258789062
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "title": "Full Video",
+    "text": "30\n31\n﻿\nSemester\n \nSCI-Arc\nScan QR code to get full video\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-030.jpeg",
+        "sha256": "56287cdcb7f8bbd65a6b068b04525e6a8523bec3b8e6a052b78cfb0aefe5cb4b",
+        "width": 1476,
+        "height": 1045,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-031.png",
+        "sha256": "c516d1bfeb1802d2fcb510e3c4ed09dd73baaddcde317509a730bb269ff4d7f1",
+        "width": 495,
+        "height": 495,
+        "bbox": [
+          28.346435546875,
+          680.6694946289062,
+          147.04721069335938,
+          799.3703002929688
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p16-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "title": "Visual Studies III",
+    "text": "In this course, we focus on how architectural \nwork is documented, curated, and presented \nthrough the format of a portfolio. As students, \nwe learn to organize projects from different \nstudios and courses into a cohesive body of \nwork, thinking about the portfolio not just as \na collection, but as a way to communicate our \nown design approach and ideas. A key part of \nthe class is the “Capture” section, where we \nphotograph our models using a robotic arm in \nthe Robot House. By adjusting lighting, back­\ngrounds, and camera angles, we produce a large \nseries of images that reveal different views, \nmaterials, and colors of each model, helping \nus understand how representation can shape \nperception. Alongside this, we also participate \nin discussions about image-making and visual \nstorytelling, exploring how sequencing, fram­\ning, and narrative can influence the way a proj­\nect is read. Through these combined exercis­\nes, the course helps us develop both technical \nskills and a clearer sense of authorship in how \nwe present our work.\nSpring 2026\nSemester:\nJennifer Chen\nCurime Batliner\nDevyn Weiser\nInstructors:\nVisual Studies III\n32\n33\n﻿\n \nSCI-Arc\nZian Xu\n2B\nVisual Studies III\n",
+    "textBlocks": 7,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-032.jpeg",
+        "sha256": "c256ba38b930ef00acf944f6cd11f1213a91492fbef44e6a4eae533623654882",
+        "width": 830,
+        "height": 1176,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-033.png",
+        "sha256": "cf23af8c5344d29d4e2a997e2c390b8489a35b4da0a5bda3bc0563858ea98b9e",
+        "width": 242,
+        "height": 69,
+        "bbox": [
+          520.7249755859375,
+          819.4962768554688,
+          595.8419799804688,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p17-art-01.webp",
+        "width": 1788,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.8419799804688,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "title": "Capture / Light & Silhouette",
+    "text": "These shots test the model’s silhouette against high-con­\ntrast backgrounds. The checkerboard frames use a shallow \ndepth of field to pull the red and blue clusters forward, while \nthe clean white versions strip away all distractions. This \nside-by-side comparison highlights the intricate, stacked \ngeometry and the logic behind each color’s placement.\nThese shots focus shifts to atmosphere and depth. The top \nframes use a dramatic halo effect to isolate the model’s \nform, casting deep shadows into its inner crevices. Below, \nwe introduced a cool cyan light, which brings out the sub­\ntle textures on the upper surfaces and gives the entire as­\nsembly a more industrial, moody feel.\n34\n35\n﻿\n \nSCI-Arc\nZian Xu\n2B\nVisual Studies III\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-034.jpeg",
+        "sha256": "aa49a9ed2b08fa0efce192f6e2c572192c4bc0cb331e504fb2dd09cbe715b195",
+        "width": 1083,
+        "height": 722,
+        "bbox": [
+          308.26800537109375,
+          139.78399658203125,
+          568.1690063476562,
+          313.051513671875
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-035.jpeg",
+        "sha256": "84adab7a805084789eba512608a7280041e86e11ef75edf364862a73a9c1b0a6",
+        "width": 1078,
+        "height": 719,
+        "bbox": [
+          28.346435546875,
+          139.85462951660156,
+          287.00787353515625,
+          312.29559326171875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-036.jpeg",
+        "sha256": "e18a61b3c53a9ec2ca98583724aa63b8d6d52d3ce29baec2b59de13fa69a9e63",
+        "width": 1078,
+        "height": 719,
+        "bbox": [
+          308.26800537109375,
+          410.31500244140625,
+          566.9290161132812,
+          582.212890625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-037.jpeg",
+        "sha256": "511368438a34f21bab9ac98f5c86cb98db3759655bee55bfebf8038476f1ab4f",
+        "width": 1072,
+        "height": 715,
+        "bbox": [
+          29.05511474609375,
+          412.1754150390625,
+          286.2992248535156,
+          583.6715087890625
+        ]
+      },
+      {
+        "occurrence": 5,
+        "path": "assets/images/original-038.png",
+        "sha256": "acf51ea951355176f28b17b034dc3bf9a6c7327539da40c48670273e0a9a6a83",
+        "width": 345,
+        "height": 70,
+        "bbox": [
+          29.05511474609375,
+          410.3152160644531,
+          286.2989807128906,
+          461.3210144042969
+        ]
+      },
+      {
+        "occurrence": 6,
+        "path": "assets/images/original-039.jpeg",
+        "sha256": "92d32951bc77b9a9fa8a58a604c2ef102a5f0229d20ed228bde4a92eaf20cd49",
+        "width": 1083,
+        "height": 722,
+        "bbox": [
+          623.6220703125,
+          139.78399658203125,
+          883.523681640625,
+          313.0513916015625
+        ]
+      },
+      {
+        "occurrence": 7,
+        "path": "assets/images/original-040.jpeg",
+        "sha256": "f18e2db0f09387f06a5430262d3bb7401f069e7b6148cf9eb8db191fec29d2c8",
+        "width": 1078,
+        "height": 719,
+        "bbox": [
+          623.6220703125,
+          410.49237060546875,
+          882.2835083007812,
+          582.933349609375
+        ]
+      },
+      {
+        "occurrence": 8,
+        "path": "assets/images/original-041.jpeg",
+        "sha256": "55569dc6c6ac1f8de346068adf75b58c5338a7ec6cc545c16caf712b66d698aa",
+        "width": 1078,
+        "height": 719,
+        "bbox": [
+          903.543212890625,
+          410.315185546875,
+          1162.20458984375,
+          582.7561645507812
+        ]
+      },
+      {
+        "occurrence": 9,
+        "path": "assets/images/original-042.jpeg",
+        "sha256": "e3db7794b129095c8438828e81743cd0f379e18e5da97cecef21e5850ec1e94b",
+        "width": 1078,
+        "height": 730,
+        "bbox": [
+          903.543212890625,
+          139.78399658203125,
+          1162.2041015625,
+          314.822998046875
+        ]
+      },
+      {
+        "occurrence": 10,
+        "path": "assets/images/original-043.png",
+        "sha256": "f5a40c266f93f8fe3eedb1066f88a142bc080c937ae123b598afc8f1bd9d7a36",
+        "width": 347,
+        "height": 47,
+        "bbox": [
+          308.26800537109375,
+          410.3152160644531,
+          566.9290161132812,
+          444.4720153808594
+        ]
+      }
+    ],
+    "vectorPaths": 1,
+    "webArtwork": [
+      {
+        "src": "assets/images/p18-art-01.webp",
+        "width": 777,
+        "height": 518,
+        "bbox": [
+          28.346435546875,
+          139.85462951660156,
+          287.00787353515625,
+          312.29559326171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-02.webp",
+        "width": 781,
+        "height": 526,
+        "bbox": [
+          308.26800537109375,
+          139.78399658203125,
+          568.1700439453125,
+          314.822998046875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-03.webp",
+        "width": 781,
+        "height": 521,
+        "bbox": [
+          623.6220703125,
+          139.78399658203125,
+          883.523681640625,
+          313.0513916015625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-04.webp",
+        "width": 777,
+        "height": 526,
+        "bbox": [
+          903.543212890625,
+          139.78399658203125,
+          1162.2041015625,
+          314.822998046875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-05.webp",
+        "width": 772,
+        "height": 522,
+        "bbox": [
+          29.05511474609375,
+          410.3152160644531,
+          286.2992248535156,
+          583.6715087890625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-06.webp",
+        "width": 777,
+        "height": 517,
+        "bbox": [
+          308.26800537109375,
+          410.31500244140625,
+          566.9290161132812,
+          582.212890625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-07.webp",
+        "width": 777,
+        "height": 518,
+        "bbox": [
+          623.6220703125,
+          410.49237060546875,
+          882.2835083007812,
+          582.933349609375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p18-art-08.webp",
+        "width": 777,
+        "height": 519,
+        "bbox": [
+          903.543212890625,
+          410.315185546875,
+          1162.20458984375,
+          582.7561645507812
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "title": "Capture / White Background",
+    "text": "36\n37\n﻿\n \nSCI-Arc\nZian Xu\n2B\nVisual Studies III\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-044.jpeg",
+        "sha256": "283a446a0ec609d06fb21baceecdbf7f449492a6eb08041c4fccb141c96ac753",
+        "width": 1880,
+        "height": 1078,
+        "bbox": [
+          0.0,
+          78.130126953125,
+          1190.550048828125,
+          763.760009765625
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p19-art-01.webp",
+        "width": 2800,
+        "height": 1614,
+        "bbox": [
+          0.0,
+          78.130126953125,
+          1190.550048828125,
+          763.760009765625
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "title": "Capture / Color Studies",
+    "text": "38\n39\n﻿\n \nSCI-Arc\nZian Xu\n2B\nVisual Studies III\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-045.jpeg",
+        "sha256": "30a556f4ec597c5d78cca03d32846916a0c8777cfdcde3ec4054f3f6da33343c",
+        "width": 1880,
+        "height": 1080,
+        "bbox": [
+          0.0,
+          78.13018798828125,
+          1190.550048828125,
+          763.760009765625
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p20-art-01.webp",
+        "width": 2800,
+        "height": 1614,
+        "bbox": [
+          0.0,
+          78.13018798828125,
+          1190.550048828125,
+          763.760009765625
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "title": "Environments I",
+    "text": "In this design studio, we explore architecture \nthrough the relationship between interior and \nexterior space, focusing on how schools can \nbe rethought under changing urban and envi­\nronmental conditions. As students, we work \nthrough a series of projects that build on each \nother. The first project is a material “sand­\nwich,” where we use found materials to stack \nand assemble layers, helping us understand \nspatial relationships and material logic in a \nhands-on way. The second project is a prece­\ndent study of the Centro Direzionale Subway \nStation in Naples, where we analyze drawings \nand reconstruct the project as a 3D model to \nbetter understand its spatial and structural sys­\ntem. In the final project, we combine what we \nlearned from the first two exercises to design \nan elementary school in Los Angeles, using \nsite observations to organize the building as \nan open, landscape-like system. Through this \nprocess, we begin to see how layering, materi­\nal systems, and spatial organization can shape \nnew types of learning environments.\nFall 2025\nSemester:\nKarel Klein\nAngelica Lorenzi\nMira Henry\nJackilin Bloom\nAminatou Fall\nInstructors:\n2A STUDIO\nEnvironments I\n40\n41\n﻿\n \nSCI-Arc\nZian Xu\n2A\nEnvironments I\n",
+    "textBlocks": 7,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-046.jpeg",
+        "sha256": "edc07444944b30e25c2535d9b20624c12ec33f5739429e0f64ca782341d6f920",
+        "width": 2266,
+        "height": 3202,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p21-art-01.webp",
+        "width": 1786,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "title": "Precedent Study · Centro Direzionale Subway Station",
+    "text": "Isometric Drawing\nSection\nThe Centro Direzionale Subway Station in Naples, designed by Miralles \nTagliabue EMBT and completed in 2025, is both a transport \nhub and an urban intervention. Covering about 10,000 (107,639 ft²)square \nmeters, the station redefines the relationship between \ninfrastructure and public space. Above ground, the project creates a new \ncivic plaza with soft topographies, green areas, and ramps that \nease the transition between different levels, turning what could have been a \npurely technical structure into a lively public realm. The roof \nis one of its most striking elements: a series of vaulted glulam timber arches \nthat recall traditional railway stations while at the same time \nevoking natural, organic rhythms. Skylights are cut into these vaults, filter­\ning daylight down into the underground concourses. Below, \nthe walls and ceilings are clad with metallic finishes in Pompeii-inspired \ntones, referencing Naples’ layered cultural history. The station’s \nstructure combines lightweight wooden vaults with the stability of concrete \nand steel, a dialogue between old and new materials. \nTogether, the roof, ground, and structure create a fluid, integrated environ­\nment where circulation, light, and atmosphere blend \nseamlessly, transforming a metro stop into a civic landmark that feels both \ncontemporary and deeply rooted in place.\nPrecident Study-Centro Direzionale Subway Station\n42\n43\n﻿\n \nSCI-Arc\nZian Xu\n2A\nEnvironments I\n",
+    "textBlocks": 6,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-047.png",
+        "sha256": "20ebbffe8d854e8a062c1eee28a21c1b039c5fa8b1f3690e52799216e368bdc1",
+        "width": 2000,
+        "height": 1306,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          595.2750244140625,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-048.png",
+        "sha256": "affa9431cbc9a626c891828baf380e8756ddc0b7f70a925c99926743c8758297",
+        "width": 1367,
+        "height": 1890,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          1162.2047119140625,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-049.png",
+        "sha256": "b5b05992af3ad633f2c8990404e504d63ff76cc0aaea098380cf7a72639ea304",
+        "width": 170,
+        "height": 74,
+        "bbox": [
+          671.81103515625,
+          737.7601318359375,
+          799.3099975585938,
+          793.260009765625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-049.png",
+        "sha256": "b5b05992af3ad633f2c8990404e504d63ff76cc0aaea098380cf7a72639ea304",
+        "width": 170,
+        "height": 74,
+        "bbox": [
+          28.347000122070312,
+          391.7490234375,
+          595.2749633789062,
+          410.3150329589844
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p22-art-01.webp",
+        "width": 1701,
+        "height": 1104,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          595.2750244140625,
+          410.3150329589844
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p22-art-02.webp",
+        "width": 1617,
+        "height": 2272,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          1162.2047119140625,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "title": "Isometric / Section / Roof & Ground Plans",
+    "text": "Isometric Drawing\nSection\nRoof Plan\nGround Plan\n45\n44\n2A\nEnvironments I\nSCI-Arc\nZian Xu\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-050.png",
+        "sha256": "39ec39141fb40a8735736d200bc4d6f90e9b4a06580d8075a7483c2faf02e0ec",
+        "width": 3224,
+        "height": 4555,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-051.png",
+        "sha256": "8cfc9f28d81fa2664ce6ec899b7efa89ef6b386b87ada25a1173dbdb6963aecb",
+        "width": 1078,
+        "height": 1541,
+        "bbox": [
+          623.6220703125,
+          42.52001953125,
+          882.283447265625,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-052.png",
+        "sha256": "9101fb283c002d21bc9238a1ee4c651a1fb48795f769e654c5ad7c575713bb73",
+        "width": 1078,
+        "height": 1541,
+        "bbox": [
+          903.543212890625,
+          42.52001953125,
+          1162.2041015625,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-053.png",
+        "sha256": "ee4109ecfea87a02334d3f4b7467bc7edc8620b59bf75030b83e8a6994bd4789",
+        "width": 2245,
+        "height": 1536,
+        "bbox": [
+          623.6220703125,
+          431.5750427246094,
+          1162.204833984375,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 5,
+        "path": "assets/images/original-054.png",
+        "sha256": "a2269ae5bd6e79778432b1cf0512d7b41b0945c835acbfc8bfa57fc3c66c7542",
+        "width": 159,
+        "height": 23,
+        "bbox": [
+          625.8900146484375,
+          395.57501220703125,
+          742.322998046875,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 6,
+        "path": "assets/images/original-055.png",
+        "sha256": "d4d3131eb456a5e3940ab22aeee1e1e08e39a912abd4c49b5f8aaf273ed29eec",
+        "width": 324,
+        "height": 26,
+        "bbox": [
+          905.8109741210938,
+          392.8819885253906,
+          1146.0469970703125,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 7,
+        "path": "assets/images/original-056.png",
+        "sha256": "4920a4103cb2e8d41bdddacbd37722591616813c2d7419f9dfa2af37ebcd462b",
+        "width": 97,
+        "height": 23,
+        "bbox": [
+          639.2119750976562,
+          767.6220092773438,
+          709.156982421875,
+          782.3619995117188
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p23-art-01.webp",
+        "width": 1786,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p23-art-02.webp",
+        "width": 777,
+        "height": 1104,
+        "bbox": [
+          623.6220703125,
+          42.52001953125,
+          882.283447265625,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p23-art-03.webp",
+        "width": 777,
+        "height": 1104,
+        "bbox": [
+          903.543212890625,
+          42.52001953125,
+          1162.2041015625,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p23-art-04.webp",
+        "width": 1617,
+        "height": 1105,
+        "bbox": [
+          623.6220703125,
+          431.5750427246094,
+          1162.204833984375,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "title": "Model Photography",
+    "text": "46\n47\n﻿\n \nSCI-Arc\nZian Xu\n2A\nEnvironments I\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-057.jpeg",
+        "sha256": "0037f1bcf1c65e66dc5624f5c353510296c1d6249e7c4a874a95064602da304d",
+        "width": 2245,
+        "height": 1542,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-058.jpeg",
+        "sha256": "5f83e08c38835355f36e495657ec429e3357a2817a8bce66eafa7f1b0e210ce9",
+        "width": 2245,
+        "height": 1542,
+        "bbox": [
+          28.346435546875,
+          431.57403564453125,
+          566.9290161132812,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-059.jpeg",
+        "sha256": "b28e0d25ac8255b24fc586088196e2f39899cfe1d6c2f5959131fce0fe467ea7",
+        "width": 2245,
+        "height": 3163,
+        "bbox": [
+          623.6220703125,
+          42.51898193359375,
+          1162.2047119140625,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p24-art-01.webp",
+        "width": 1616,
+        "height": 1104,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p24-art-02.webp",
+        "width": 1617,
+        "height": 2272,
+        "bbox": [
+          623.6220703125,
+          42.51898193359375,
+          1162.2047119140625,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p24-art-03.webp",
+        "width": 1616,
+        "height": 1105,
+        "bbox": [
+          28.346435546875,
+          431.57403564453125,
+          566.9290161132812,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "title": "Ground Plan",
+    "text": "Ground Plan\n48\n49\n﻿\n \nSCI-Arc\n2A\nZian Xu\nEnvironments I\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-060.png",
+        "sha256": "dffd8aff75fbbaab630e5e376f345f8eb823f229948f5429a80ffcf02b91b53c",
+        "width": 4962,
+        "height": 3518,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p25-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "title": "2nd Floor Plan",
+    "text": "2nd Floor Plan\n50\n51\n﻿\n \nSCI-Arc\nZian Xu\n2A\nEnvironments I\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-061.png",
+        "sha256": "7035ccffc10780e30aac7a21126bfdd1d6c49eb848e18c17ef7f3bad4428feb8",
+        "width": 4962,
+        "height": 3518,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 2,
+    "webArtwork": [
+      {
+        "src": "assets/images/p26-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "title": "Roof Plan",
+    "text": "Roof Plan\n52\n53\n﻿\n \nSCI-Arc\nZian Xu\n2A\nEnvironments I\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-062.png",
+        "sha256": "e8069981ecf00054c4b5eb4b798049d9667e055d2bd68302dbf0dfb7d10d40a5",
+        "width": 4961,
+        "height": 3517,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 2,
+    "webArtwork": [
+      {
+        "src": "assets/images/p27-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "title": "Sections",
+    "text": "Sections\n54\n55\n54\n﻿\n \nSCI-Arc\nZian Xu\nSCI-Arc\nZian Xu\n2A\nEnvironments I\n2A\nEnvironments I\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-063.png",
+        "sha256": "abe293c10b57eee67186ed6906d3a08006edc5e176374fc7c6095908687eb3a1",
+        "width": 4961,
+        "height": 3275,
+        "bbox": [
+          0.0,
+          0.00103759765625,
+          1190.550048828125,
+          783.780029296875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p28-art-01.webp",
+        "width": 2800,
+        "height": 1844,
+        "bbox": [
+          0.0,
+          0.00103759765625,
+          1190.550048828125,
+          783.780029296875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "title": "Isometric Drawing / Model",
+    "text": "Isometric Drawing\n56\n57\n﻿\n \nSCI-Arc\nZian Xu\n2A\nEnvironments I\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-064.png",
+        "sha256": "261800c42f26c552976722106c5b2e02789aadd281d3559c668e3e08d0fc03f4",
+        "width": 2353,
+        "height": 3116,
+        "bbox": [
+          28.34600067138672,
+          42.52001953125,
+          591.7568969726562,
+          788.031005859375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-065.jpeg",
+        "sha256": "3a8edd29d024f4fa4836e82275424f35cd33b04126cd04626765a60f533e7b07",
+        "width": 2550,
+        "height": 1752,
+        "bbox": [
+          623.6220703125,
+          42.52001953125,
+          1162.204833984375,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-066.jpeg",
+        "sha256": "81800768551f0906faacffc591711b011abca95d9d9346cd9fa01f3edb7a839f",
+        "width": 2550,
+        "height": 1752,
+        "bbox": [
+          623.6220703125,
+          431.57403564453125,
+          1162.204833984375,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-067.png",
+        "sha256": "e08778a42c3deb8e3a730868926a198c8a6d0625e2b76dc174cfce06a9f7dc3f",
+        "width": 174,
+        "height": 91,
+        "bbox": [
+          493.22900390625,
+          278.9263916015625,
+          591.4130249023438,
+          420.94403076171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p29-art-01.webp",
+        "width": 1691,
+        "height": 2238,
+        "bbox": [
+          28.34600067138672,
+          42.52001953125,
+          591.7568969726562,
+          788.031005859375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p29-art-02.webp",
+        "width": 1617,
+        "height": 1104,
+        "bbox": [
+          623.6220703125,
+          42.52001953125,
+          1162.204833984375,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p29-art-03.webp",
+        "width": 1617,
+        "height": 1105,
+        "bbox": [
+          623.6220703125,
+          431.57403564453125,
+          1162.204833984375,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 30,
+    "title": "Visual Studies II",
+    "text": "This course approaches architecture through \na speculative and narrative lens, asking us to \nrethink an existing building not as something \nfixed, but as something that can be trans­\nformed. Working from the precedent of the \nLeubinger Fürstenhügel Service Station . As \nthe project develops, the building is relocat­\ned to a new site in Downtown Los Angeles, \nwhere it takes on a different relationship to its \nsurroundings. A damaged or dismantled vehi­\ncle is introduced into the scene, becoming part \nof the same narrative world. Throughout the \nsemester, we move between drawing, model­\ning, and real-time environments. Using Unre­\nal Engine, we build an atmospheric scene and \nproduce a short cinematic sequence, focusing \non how architecture can tell a story beyond its \noriginal function.\nFall 2026\nSemester:\nAminatou Fall\nKordae Henry\nInstructors:\nVisual Studies II\nZian Xu\nJustin Hsu\nTeam:\n58\n59\n \n﻿\nSCI-Arc\nZian Xu\n2A\nVisual Studies II\n",
+    "textBlocks": 7,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-068.jpeg",
+        "sha256": "11968f76b1884eef40522c9dd5b9ba5fe10ff8e3a6b348f811bbf60f3610157d",
+        "width": 1260,
+        "height": 892,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p30-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "title": "Leubinger Station / Geometry & Infrastructure",
+    "text": "The initial phase focused on isolating the primary geometries of the Leubinger \nstation. By stripping away texture and color, the model highlights the relationship \nbetween the long horizontal canopy and the angular service block. These skeletal \nforms allow for a pure analysis of the building’s massing and structural logic before \nany environmental or contextual factors are introduced.\nThis section documents our detailed investigation into the station’s internal infra­\nstructure. The 3D model translates specific site data, including the precise place­\nment of fuel pumps, service zones, and internal room configurations, into a cohesive \nspatial logic. By mapping these functional components, we transition from a hollow \nshell to a fully articulated interior.\n60\n61\n﻿\n \nSCI-Arc\nZian Xu\n2A\nVisual Studies II\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-069.jpeg",
+        "sha256": "ec3668719f58c485f7707ebcfb1da5ba0ca4d00cbff01f3ffa1e9d1f469fb379",
+        "width": 1531,
+        "height": 827,
+        "bbox": [
+          28.346435546875,
+          42.51995849609375,
+          566.9290771484375,
+          333.446044921875
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-070.jpeg",
+        "sha256": "464a6aea7f3bfe5d1b28f5062113a7c328f38ebfb4f7d99927c1dafefa17c436",
+        "width": 1359,
+        "height": 742,
+        "bbox": [
+          28.346466064453125,
+          354.3310241699219,
+          566.9290161132812,
+          646.1220092773438
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-071.jpeg",
+        "sha256": "e41e4be681ab6cde62d19958a9902f4d3331a672e4ea1e8222bb06ee9e339eb6",
+        "width": 1521,
+        "height": 814,
+        "bbox": [
+          623.6221313476562,
+          354.3310241699219,
+          1162.204833984375,
+          646.1220092773438
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-072.jpeg",
+        "sha256": "24908530807b8bfe0c9cba3a035221ca12dcb4c0e95f5f0354d4ad52e1c82e78",
+        "width": 1508,
+        "height": 813,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          1162.205078125,
+          334.3113098144531
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p31-art-01.webp",
+        "width": 1616,
+        "height": 874,
+        "bbox": [
+          28.346435546875,
+          42.51995849609375,
+          566.9290771484375,
+          333.446044921875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p31-art-02.webp",
+        "width": 1617,
+        "height": 876,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          1162.205078125,
+          334.3113098144531
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p31-art-03.webp",
+        "width": 1616,
+        "height": 877,
+        "bbox": [
+          28.346466064453125,
+          354.3310241699219,
+          566.9290161132812,
+          646.1220092773438
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p31-art-04.webp",
+        "width": 1617,
+        "height": 877,
+        "bbox": [
+          623.6221313476562,
+          354.3310241699219,
+          1162.204833984375,
+          646.1220092773438
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "title": "Ruin Narrative / Cinematic Frames",
+    "text": "The introduction of the “louder” machine element serves as a second protagonist \nwithin the narrative. Positioned beneath the fractured canopy, the rusted metal of \nthe machinery provides a sharp material contrast against the matte concrete of the \nstation. This intersection marks the shift from architecture to infrastructure, empha­\nsizing a “ruin within a ruin” where both elements exist in a shared state of decay.\nThese frames capture the specific cinematic quality of a Los Angeles afternoon. \nHarsh sunlight filters through the roof openings to hit the water, casting long, \nhigh-contrast shadows across the concrete surfaces. The chosen perspectives em­\nphasize the vast, empty scale of the station, framing it as a derelict shelter that now \nhouses the fractured machine within its hollowed-out remnants.\n62\n63\n﻿\n \nSCI-Arc\nZian Xu\n2A\nVisual Studies II\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-073.jpeg",
+        "sha256": "4c4a77f25e2377dc79736fa29870c9c252bfec462180e8052f70cd4602a451f9",
+        "width": 1920,
+        "height": 1080,
+        "bbox": [
+          28.346435546875,
+          52.441162109375,
+          566.9291381835938,
+          355.3939208984375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-074.jpeg",
+        "sha256": "05ec2e15e2f0b4b4e08c455535cd5baf629fb9ffd047591327b9e47551b0795a",
+        "width": 1920,
+        "height": 1080,
+        "bbox": [
+          28.346435546875,
+          399.15380859375,
+          566.9291381835938,
+          702.1065673828125
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-075.jpeg",
+        "sha256": "4df4474801fb662f5dc210b18c7eef094f76d5e37dde9890d8ede68cac67c46f",
+        "width": 1920,
+        "height": 1080,
+        "bbox": [
+          623.6220703125,
+          52.441162109375,
+          1162.204833984375,
+          355.3939208984375
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-076.jpeg",
+        "sha256": "b4376e5bd1e1df19434cd94b99ed6dc8214170498b04473781ba08f913f5c2fa",
+        "width": 1920,
+        "height": 1080,
+        "bbox": [
+          623.6220703125,
+          399.15380859375,
+          1162.204833984375,
+          702.1065673828125
+        ]
+      }
+    ],
+    "vectorPaths": 8,
+    "webArtwork": [
+      {
+        "src": "assets/images/p32-art-01.webp",
+        "width": 1616,
+        "height": 910,
+        "bbox": [
+          28.34600067138672,
+          52.441162109375,
+          566.9291381835938,
+          355.3939208984375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p32-art-02.webp",
+        "width": 1617,
+        "height": 910,
+        "bbox": [
+          623.6220092773438,
+          52.441162109375,
+          1162.204833984375,
+          355.3939208984375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p32-art-03.webp",
+        "width": 1616,
+        "height": 910,
+        "bbox": [
+          28.34600067138672,
+          399.15380859375,
+          566.9291381835938,
+          702.1069946289062
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p32-art-04.webp",
+        "width": 1617,
+        "height": 910,
+        "bbox": [
+          623.6220092773438,
+          399.15380859375,
+          1162.204833984375,
+          702.1069946289062
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "title": "Full Video",
+    "text": "Lorem Ipsum Fusce in magna et sem consequat.\n64\n65\n﻿\nSemester\n \nSCI-Arc\nScan QR code to get full video\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-077.jpeg",
+        "sha256": "4bc8021365a74030c1b64e3b5685a8ae07a635ab54483812de3c214cbbd6443a",
+        "width": 1481,
+        "height": 1048,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-078.png",
+        "sha256": "2529e9a254f242bb35f7ddaee2f746cc7880be6edd61b54b552a094540f103c8",
+        "width": 495,
+        "height": 494,
+        "bbox": [
+          1043.5040283203125,
+          680.95703125,
+          1162.2047119140625,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 12,
+    "webArtwork": [
+      {
+        "src": "assets/images/p33-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "title": "Interactions II",
+    "text": "In this studio, we use the fundamentals of ar­\nchitectural design through geometry, form, and \nspatial organization, focusing on how simple \noperations can generate complex spatial ideas. \nAs students, we begin by working with basic \nobjects, folding and translating them in 3D \nspace to record their movement as trajectories. \nThese trajectories are then developed into rib­\nbon models, which help us visualize motion, \nstructure, and interior space while introduc­\ning concepts like massing, ground, section, \nand datum. Through this process, we learn \nhow 2D information can be transformed into \nthree dimensional form and spatial systems. In \nthe second half of the course, we apply these \nideas to a real site by studying Los Angeles \nState Historic Park, using on-site observation \nand measurement to inform our design. Build­\ning on our earlier ribbon studies, we develop a \nproposal for a public pool and training facility, \nexploring how curved geometries can trans­\nlate into architectural form while responding \nto the site and program. The project ultimately \nbrings together geometry, spatial thinking, and \nreal-world context into a complete design pro­\ncess.\nSpring 2025\nSemester:\nMatthew Au\nAminatou Fall\nAngelica Lorenzi\nMing Feng\nInstructors:\n1B STUDIO\nInteractions II\n66\n67\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\nSCI-Arc\nZian Xu\n",
+    "textBlocks": 8,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-079.jpeg",
+        "sha256": "02921693159d4235a599a46243c7b79f578fe71539427f47c664a8ca6ef02a84",
+        "width": 3674,
+        "height": 5190,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p34-art-01.webp",
+        "width": 1786,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 35,
+    "title": "Origami Diagrams",
+    "text": "Origami Diagrams\n68\n69\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-080.jpeg",
+        "sha256": "93fa8a8d77511c42c743b97453da7243730b3c71f269d660a5f6eb1f48f6c028",
+        "width": 1286,
+        "height": 748,
+        "bbox": [
+          0.0,
+          77.9520263671875,
+          1190.550048828125,
+          769.6060180664062
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p35-art-01.webp",
+        "width": 2800,
+        "height": 1628,
+        "bbox": [
+          0.0,
+          77.9520263671875,
+          1190.550048828125,
+          769.6060180664062
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "title": "Origami / Ribbon Orthogonal Drawings",
+    "text": "Origami Diagrams\n71\n70\n771\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\nRibbon Orthogonal Drawings\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-081.jpeg",
+        "sha256": "e857c5e2591bfd64e96249989910921dc9d96202b98925aca08b229a9cd6ec33",
+        "width": 416,
+        "height": 582,
+        "bbox": [
+          28.34600067138672,
+          42.51898193359375,
+          566.9290161132812,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-082.png",
+        "sha256": "f78b83ff0832a11a1e0ccd62a2e944818f0a952cc9e9ac2cea9dfd5ca42fcede",
+        "width": 1232,
+        "height": 1639,
+        "bbox": [
+          603.7789916992188,
+          42.51898193359375,
+          1173.54296875,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p36-art-01.webp",
+        "width": 1616,
+        "height": 2272,
+        "bbox": [
+          28.34600067138672,
+          42.51898193359375,
+          566.9290161132812,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p36-art-02.webp",
+        "width": 1710,
+        "height": 2272,
+        "bbox": [
+          603.7789916992188,
+          42.51898193359375,
+          1173.54296875,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "title": "Ribbon Oblique Drawing / Ribbon Drawing",
+    "text": "Ribbon Oblique Drawing\n72\n73\nZian Xu\nSCI-Arc\nInteractions II\n1B\nRibbon Drawing\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-083.png",
+        "sha256": "22202fd52b43736818011ebe2e585e7cbf4b6ba69806f58c0dffaadf60e6b3f5",
+        "width": 2490,
+        "height": 3340,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-084.jpeg",
+        "sha256": "1a947ee6b86d137f3893ed0a0ec4be7c18c15700bf4169e4b286c2f513ed7903",
+        "width": 1222,
+        "height": 1732,
+        "bbox": [
+          595.2760009765625,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p37-art-01.webp",
+        "width": 1786,
+        "height": 2399,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p37-art-02.webp",
+        "width": 1787,
+        "height": 2526,
+        "bbox": [
+          595.2760009765625,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 38,
+    "title": "Pool House / Plan & Section",
+    "text": "Pool House Section\nPool House Plan\nPool Section\nPool Plan\n74\n75\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\n",
+    "textBlocks": 6,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-085.jpeg",
+        "sha256": "e0f2428cc1b8ab9c21699a431076c81ac63ea2bd6bf8e9e043738ed3da55e7a7",
+        "width": 1368,
+        "height": 940,
+        "bbox": [
+          28.346405029296875,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-086.jpeg",
+        "sha256": "b78600ffa6a25e84c5f45568ff8045e14065444f00c3a2b80d08a8ed3e0d005d",
+        "width": 1368,
+        "height": 940,
+        "bbox": [
+          28.481000900268555,
+          431.57501220703125,
+          566.6589965820312,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-087.jpeg",
+        "sha256": "aba3a169850fe8b44ff03d0db8d86118ed87edaa9884a6a16fd5677e58f6324b",
+        "width": 1368,
+        "height": 941,
+        "bbox": [
+          623.8920288085938,
+          42.52001953125,
+          1161.93505859375,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-088.jpeg",
+        "sha256": "c6ac2b3f68ee691116efcdb0855cc7750a2054a52a8323b667d4b846261546a0",
+        "width": 1368,
+        "height": 940,
+        "bbox": [
+          623.6220703125,
+          431.57501220703125,
+          1162.204833984375,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p38-art-01.webp",
+        "width": 1616,
+        "height": 1104,
+        "bbox": [
+          28.346405029296875,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p38-art-02.webp",
+        "width": 1615,
+        "height": 1104,
+        "bbox": [
+          623.8920288085938,
+          42.52001953125,
+          1161.93505859375,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p38-art-03.webp",
+        "width": 1615,
+        "height": 1105,
+        "bbox": [
+          28.481000900268555,
+          431.57501220703125,
+          566.6589965820312,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p38-art-04.webp",
+        "width": 1617,
+        "height": 1105,
+        "bbox": [
+          623.6220703125,
+          431.57501220703125,
+          1162.204833984375,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 39,
+    "title": "1st & 2nd Floor Plans",
+    "text": "1st Floor Plan\n2nd Floor Plan\n76\n77\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-089.png",
+        "sha256": "4b1c30708b71ffffb12b8dd5c98a47fc59d4e0c4fa0c155d9ff28804a5438ca8",
+        "width": 4970,
+        "height": 3518,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-090.png",
+        "sha256": "2dc33a8b4ad43feb3f722538097db2958775cbb191a245ae9211529de2d38af5",
+        "width": 727,
+        "height": 34,
+        "bbox": [
+          354.33099365234375,
+          402.3789978027344,
+          899.5806884765625,
+          426.1310119628906
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-091.png",
+        "sha256": "783368e1e68e74193397284f13aed1c42bc18237eb460d27bac2a542c3e05797",
+        "width": 727,
+        "height": 35,
+        "bbox": [
+          337.03399658203125,
+          806.8160400390625,
+          882.283447265625,
+          831.4330444335938
+        ]
+      }
+    ],
+    "vectorPaths": 2,
+    "webArtwork": [
+      {
+        "src": "assets/images/p39-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 40,
+    "title": "Sections",
+    "text": "SCI-Arc\n1B\nSections\n78\n79\n﻿\n \nZian Xu\nSCI-Arc\nInteractions II\n1B\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-092.png",
+        "sha256": "341ad54264bad0d4726bf0d658e60e769e5f6aa4a2ac2c652d603edb3b302f74",
+        "width": 4970,
+        "height": 3209,
+        "bbox": [
+          0.0,
+          42.52001953125,
+          1190.550048828125,
+          811.363037109375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-093.png",
+        "sha256": "d34428c21f71ded0444390d13e8c44ddff21ff00fc90b68268a0a9405d44dcac",
+        "width": 536,
+        "height": 236,
+        "bbox": [
+          0.0,
+          666.1420288085938,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-094.png",
+        "sha256": "1f9e96e9b2f07c1fa9a0c7e7e9f29ce4ade3d2efa342b743f999f3b69411a555",
+        "width": 536,
+        "height": 238,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          175.74798583984375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p40-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 41,
+    "title": "Elevation",
+    "text": "Elevation\n80\n81\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-095.jpeg",
+        "sha256": "a91ce5a4db532d55418c8b56bac070d299b6f9af643390f188b09a261bbd86e7",
+        "width": 2445,
+        "height": 1730,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-096.png",
+        "sha256": "61780b92930e008b4a17438f7f7a8c28cb30f52be01aa5ef2dea93ef67a82e85",
+        "width": 507,
+        "height": 190,
+        "bbox": [
+          0.0,
+          702.1060180664062,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 2,
+    "webArtwork": [
+      {
+        "src": "assets/images/p41-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 42,
+    "title": "Model Photography",
+    "text": "82\n83\n﻿\n \nSCI-Arc\nZian Xu\n1B\nInteractions II\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-097.jpeg",
+        "sha256": "b0523b4c27c6233632d4329e2e88649996a43eaca5c1b9cb9e916865baf78a66",
+        "width": 2245,
+        "height": 1542,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-098.jpeg",
+        "sha256": "a5ca6ca81859f170bae1518acc00375dfd26b42732fbfced041191ae12979b2d",
+        "width": 2245,
+        "height": 1542,
+        "bbox": [
+          28.346435546875,
+          431.57403564453125,
+          566.9290161132812,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-099.jpeg",
+        "sha256": "3310f5f69b98a34e5ebd13109c6857499e72ed0a8eab98f695cc730c092a0ada",
+        "width": 2245,
+        "height": 1542,
+        "bbox": [
+          623.6220703125,
+          42.52001953125,
+          1162.2047119140625,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-100.jpeg",
+        "sha256": "fdaabc6f4e1f3ea0364b870f2502ea8e12fb5f282aab367ea6975f9add8c2c47",
+        "width": 2245,
+        "height": 1538,
+        "bbox": [
+          623.6220703125,
+          431.5750732421875,
+          1162.2047119140625,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p42-art-01.webp",
+        "width": 1616,
+        "height": 1104,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p42-art-02.webp",
+        "width": 1617,
+        "height": 1104,
+        "bbox": [
+          623.6220703125,
+          42.52001953125,
+          1162.2047119140625,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p42-art-03.webp",
+        "width": 1616,
+        "height": 1105,
+        "bbox": [
+          28.346435546875,
+          431.57403564453125,
+          566.9290161132812,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p42-art-04.webp",
+        "width": 1617,
+        "height": 1105,
+        "bbox": [
+          623.6220703125,
+          431.5750732421875,
+          1162.2047119140625,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 43,
+    "title": "Visual Studies I",
+    "text": "This course introduces visual studies through \nhands-on material experimentation and fab­\nrication, focusing on how texture, color, and \nmaterial systems can shape design at differ­\nent scales. As students, we work in teams to \ntest processes like papier-mâché and casting, \nlearning how to mix paper pulp with glue to \ncreate a material that is strong enough to sup­\nport weight. At the same time, we experiment \nwith plaster and silicone molds to study sur­\nface, texture, and detail through casting. These \nsmaller tests lead into a larger final project, \nwhere we design and build a full-scale chair \nusing cardboard as the main structure. We \nthen apply layers of pre-mixed colored papi­\ner-mâché to the surface, reinforcing the struc­\nture while also developing its visual quality. \nThrough this process, the course emphasizes \nmaking, problem-solving, and the connection \nbetween material experimentation and final \nform.\nSpring 2025\nSemester:\nAminatou Fall\nAngelica Lorenzi\nInstructors:\nVisual Studies I\nZian Xu\nJustin Hsu\nYucheng Wu\nBoury-Heyler Alix\nTeam:\n84\n85\n﻿\n \nSCI-Arc\nZian Xu\n1B\nVisual Studies I\n",
+    "textBlocks": 8,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-101.jpeg",
+        "sha256": "ad124de43a5b9c554ff54add12639fa865ad9863e649ed08e988f7afb127080b",
+        "width": 1222,
+        "height": 1730,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p43-art-01.webp",
+        "width": 1786,
+        "height": 2526,
+        "bbox": [
+          0.0,
+          0.0,
+          595.2750244140625,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 44,
+    "title": "Sketch Models / Material Studies",
+    "text": "Before settling on a final design, we built a series of quick “sketch models” using \ngray foam and zip ties. These were meant to be fast and intuitive—the zip ties al­\nlowed us to pull and tension the foam into organic shapes we couldn’t have planned \non paper. From this group of studies, we selected the most promising form to devel­\nop into our final chair.\nTo find our final look, we experimented with colored papier-mâché made from wet \ntissue and glue. By layering the pulp, we created these vibrant, tactile swatches. \nSome are rough and fibrous, while others have a rippled, skin-like texture once dry. \nThese tests became our primary reference for how color and material would behave \non the full-scale model.\n86\n87\n﻿\n \nSCI-Arc\nZian Xu\n1B\nVisual Studies I\n",
+    "textBlocks": 5,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-102.jpeg",
+        "sha256": "f918f93e2c399cbb45c38efad26773803ae59e6d928e213f84eb48c4360c8d89",
+        "width": 800,
+        "height": 538,
+        "bbox": [
+          28.346435546875,
+          81.31916809082031,
+          287.00787353515625,
+          254.05499267578125
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-103.jpeg",
+        "sha256": "6f452afc065733dd3c60024acc9dab4f21bdc8c43e8744eb459ad8621db79c0d",
+        "width": 1088,
+        "height": 732,
+        "bbox": [
+          308.26800537109375,
+          80.78802490234375,
+          566.9290161132812,
+          254.0550537109375
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-104.jpeg",
+        "sha256": "eb794c69b564848e93165b7c6df7e9744eae4017819c1aec49bcda4f6d88fc52",
+        "width": 1088,
+        "height": 732,
+        "bbox": [
+          28.34600067138672,
+          275.31500244140625,
+          287.00701904296875,
+          448.5830078125
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-105.jpeg",
+        "sha256": "dc1b786c21e323226ad8e9d432069e9afc8abf42ecb919a0108e4d372deef214",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          308.26800537109375,
+          275.31500244140625,
+          566.9290161132812,
+          448.5830078125
+        ]
+      },
+      {
+        "occurrence": 5,
+        "path": "assets/images/original-106.jpeg",
+        "sha256": "8b03be062166f9e0e142e737cdfd80f2590bad4296fba0e3ed6e38c6599308a4",
+        "width": 1079,
+        "height": 731,
+        "bbox": [
+          28.34600067138672,
+          469.843017578125,
+          286.8999938964844,
+          643.1110229492188
+        ]
+      },
+      {
+        "occurrence": 6,
+        "path": "assets/images/original-107.jpeg",
+        "sha256": "d1d0bc457699377bc5732decaa69a6b5ae3dee63fccd98ca4769ea1c415f20d6",
+        "width": 1078,
+        "height": 732,
+        "bbox": [
+          308.26800537109375,
+          469.843017578125,
+          566.9290161132812,
+          643.1110229492188
+        ]
+      },
+      {
+        "occurrence": 7,
+        "path": "assets/images/original-108.jpeg",
+        "sha256": "f5c877410e5688919fd571dcf7a84420547acd052bf6f279298d466064eb15c3",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          623.6220703125,
+          80.7879638671875,
+          882.283447265625,
+          254.05499267578125
+        ]
+      },
+      {
+        "occurrence": 8,
+        "path": "assets/images/original-109.jpeg",
+        "sha256": "873ccf2f844614a072f90cb0f0aabc14b56d39669a551eb960fe34f809183e79",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          903.54345703125,
+          80.7879638671875,
+          1162.204833984375,
+          254.05499267578125
+        ]
+      },
+      {
+        "occurrence": 9,
+        "path": "assets/images/original-110.jpeg",
+        "sha256": "7fe6ef8acebb7657c3a186aea00127761c132e807aea1df09657b4acd9b99e93",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          623.6220703125,
+          275.31500244140625,
+          882.283447265625,
+          448.5830078125
+        ]
+      },
+      {
+        "occurrence": 10,
+        "path": "assets/images/original-111.jpeg",
+        "sha256": "c474343ad80efa29f35f30a2af9255cff979babfd735d77fc03bafbce7b0c159",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          903.54345703125,
+          275.31500244140625,
+          1162.204833984375,
+          448.5830078125
+        ]
+      },
+      {
+        "occurrence": 11,
+        "path": "assets/images/original-112.jpeg",
+        "sha256": "8326f28964cc088abb57720373acdc412865c8fdd38c58b5e9117ebd710d1c6b",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          623.6220703125,
+          469.843017578125,
+          882.283447265625,
+          643.1110229492188
+        ]
+      },
+      {
+        "occurrence": 12,
+        "path": "assets/images/original-113.jpeg",
+        "sha256": "53435032c845913aad176851dcfc04456eee769b48653daa0a53643396dbce1e",
+        "width": 1078,
+        "height": 731,
+        "bbox": [
+          903.54345703125,
+          469.843017578125,
+          1162.204833984375,
+          643.1110229492188
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p44-art-01.webp",
+        "width": 777,
+        "height": 520,
+        "bbox": [
+          28.346435546875,
+          81.31916809082031,
+          287.00787353515625,
+          254.05499267578125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-02.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          308.26800537109375,
+          80.78802490234375,
+          566.9290161132812,
+          254.0550537109375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-03.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          623.6220703125,
+          80.7879638671875,
+          882.283447265625,
+          254.05499267578125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-04.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          903.54345703125,
+          80.7879638671875,
+          1162.204833984375,
+          254.05499267578125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-05.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          28.34600067138672,
+          275.31500244140625,
+          287.00701904296875,
+          448.5830078125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-06.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          308.26800537109375,
+          275.31500244140625,
+          566.9290161132812,
+          448.5830078125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-07.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          623.6220703125,
+          275.31500244140625,
+          882.283447265625,
+          448.5830078125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-08.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          903.54345703125,
+          275.31500244140625,
+          1162.204833984375,
+          448.5830078125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-09.webp",
+        "width": 776,
+        "height": 521,
+        "bbox": [
+          28.34600067138672,
+          469.843017578125,
+          286.8999938964844,
+          643.1110229492188
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-10.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          308.26800537109375,
+          469.843017578125,
+          566.9290161132812,
+          643.1110229492188
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-11.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          623.6220703125,
+          469.843017578125,
+          882.283447265625,
+          643.1110229492188
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p44-art-12.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          903.54345703125,
+          469.843017578125,
+          1162.204833984375,
+          643.1110229492188
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 45,
+    "title": "Chair / Casting",
+    "text": "The final model uses a hidden cardboard skeleton for its structural core, which is \nthen fully encased in layers of hand-applied papier-mâché. While bright yellow de­\nfines the main body, we integrated pops of purple and gray on the back. Inside the \n“smiley face” cutout, we filled the voids with the same casting materials from our \nearlier experiments to add a hidden layer of detail.\t ·\t\nThese frames show our exploration of casting and precision. Using 3D-printed \nmolds as a base, we cast the forms in plaster and two different types of silicone. \nEach piece features a unique, delicate pattern on its surface—a contrast between the \nhigh-tech 3D printed process and the tactile, poured material of the cast itself.\n88\n89\n﻿\n \nSCI-Arc\nZian Xu\n1B\nVisual Studies I\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-114.jpeg",
+        "sha256": "43ffd99a60e45e8d97812950c52f30dcef57bb87b32d7c6a581b2cad94d9e7f1",
+        "width": 1185,
+        "height": 803,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          882.283447265625,
+          215.78802490234375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-115.jpeg",
+        "sha256": "5de029c1a1ceeb811b302cfd4bfb3a4a6393ba8faf6a2f070be695301077cc6c",
+        "width": 1067,
+        "height": 808,
+        "bbox": [
+          903.5433349609375,
+          42.52001953125,
+          1133.8580322265625,
+          215.78802490234375
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-116.jpeg",
+        "sha256": "a480805cf5ec1fefae86a5b88554942f89e5a3ae60883765a6765a8c0dc69695",
+        "width": 1041,
+        "height": 888,
+        "bbox": [
+          676.06298828125,
+          237.04803466796875,
+          882.282958984375,
+          410.3150329589844
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-117.png",
+        "sha256": "83ef0de49390f8d29aa9ea88cff3a4c4f5047704a1a8a331ab7740715e8e608b",
+        "width": 52,
+        "height": 233,
+        "bbox": [
+          1124.716552734375,
+          42.52001953125,
+          1162.2049560546875,
+          215.78802490234375
+        ]
+      },
+      {
+        "occurrence": 5,
+        "path": "assets/images/original-118.png",
+        "sha256": "75719366ac27c0234c290d9f18f6a9a7eb3131addf80f80af5ce9cc35074b859",
+        "width": 102,
+        "height": 233,
+        "bbox": [
+          623.6220092773438,
+          237.19512939453125,
+          698.45703125,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 6,
+        "path": "assets/images/original-119.jpeg",
+        "sha256": "e8f93cbc38143b55aff98ca7465bbff79c1ede800de2a732eec44c87a6e93fef",
+        "width": 1078,
+        "height": 732,
+        "bbox": [
+          903.5433349609375,
+          237.0479736328125,
+          1162.2047119140625,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 7,
+        "path": "assets/images/original-120.jpeg",
+        "sha256": "2d7bc16a4be10c86129dca29d3434911ef97d2e3fd9dcf47a843a59288b11b00",
+        "width": 2245,
+        "height": 1684,
+        "bbox": [
+          28.346435546875,
+          139.78369140625,
+          566.9290771484375,
+          543.720703125
+        ]
+      },
+      {
+        "occurrence": 8,
+        "path": "assets/images/original-121.png",
+        "sha256": "7a878fdd66ba544d09516a60d7e891bb7a08da36dfb6eb715687053e3a37102f",
+        "width": 246,
+        "height": 201,
+        "bbox": [
+          304.0159912109375,
+          382.6330261230469,
+          476.1960144042969,
+          528.8389892578125
+        ]
+      },
+      {
+        "occurrence": 9,
+        "path": "assets/images/original-122.jpeg",
+        "sha256": "d6eea7dc185d931bf205679f8223b0767d79e4a41e16f582b3e73f32ec1e43cb",
+        "width": 1557,
+        "height": 1048,
+        "bbox": [
+          623.6220092773438,
+          431.57501220703125,
+          882.2839965820312,
+          604.843017578125
+        ]
+      },
+      {
+        "occurrence": 10,
+        "path": "assets/images/original-123.jpeg",
+        "sha256": "bafd6421b77249a1de20259d9efeb64cbbab011fbe34b2898c953e0687fbcdaa",
+        "width": 1078,
+        "height": 727,
+        "bbox": [
+          903.5433349609375,
+          431.57501220703125,
+          1162.2047119140625,
+          604.843017578125
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p45-art-01.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          882.283447265625,
+          215.78802490234375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p45-art-02.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          903.5433349609375,
+          42.52001953125,
+          1162.2049560546875,
+          215.78802490234375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p45-art-03.webp",
+        "width": 1616,
+        "height": 1213,
+        "bbox": [
+          28.346435546875,
+          139.78369140625,
+          566.9290771484375,
+          543.720703125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p45-art-04.webp",
+        "width": 777,
+        "height": 520,
+        "bbox": [
+          623.6220092773438,
+          237.04803466796875,
+          882.282958984375,
+          410.3150329589844
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p45-art-05.webp",
+        "width": 777,
+        "height": 520,
+        "bbox": [
+          903.5433349609375,
+          237.0479736328125,
+          1162.2047119140625,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p45-art-06.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          623.6220092773438,
+          431.57501220703125,
+          882.2839965820312,
+          604.843017578125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p45-art-07.webp",
+        "width": 777,
+        "height": 521,
+        "bbox": [
+          903.5433349609375,
+          431.57501220703125,
+          1162.2047119140625,
+          604.843017578125
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 46,
+    "title": "Interactions I",
+    "text": "In this studio, we explore architectural design \nthrough the process of moving from generated \nimages to spatial and visualized models. As stu­\ndents, we begin by using tools like MidJourney \nto create a series of experimental graphics, de­\nveloping our own visual language, such as my \nproject “ANCIENT FRAGMENTS,” which \ncombines translucent materials, industrial el­\nements, and organic forms. These images then \nbecome the basis for 3D modeling, where we \ntranslate their outlines into irregular volumes \nand gradually merge multiple forms into more \ncomplex compositions. We also apply materi­\nals and textures to give the models a stronger \nspatial and visual presence. In the final stage, \nwe work collaboratively to combine all of our \nmodels into a shared scene called “ZAJEN,” \nusing Unreal Engine to build a collective en­\nvironment that showcases different approach­\nes and styles. Through this process, the studio \nfocuses on how digital generation, modeling, \nand collaboration can come together to shape \nnew ways of thinking about architecture and \nrepresentation.\nFall 2024\nSemester:\nDamijan Jovanovic\nAminatou Fall\nKordae Henry\nMichael Rotondi\nInstructors:\n1A STUDIO\nInteractions I\nZian Xu\nAriella Shaoulian\nEsmeralda Vargas\nJoey Greiss\nJustin Hsu\nJoori Alwazzan\nTeam:\n90\n91\n﻿\n \nSCI-Arc\nZian Xu\n1A\nInteractions I\n",
+    "textBlocks": 9,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-124.jpeg",
+        "sha256": "90ad683b5b56727758d1770bcc8a15dde6fb5d08668d25b69a8ad9679ee7ede4",
+        "width": 766,
+        "height": 542,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p46-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.0,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 47,
+    "title": "ANCIENT FRAGMENTS",
+    "text": "A 3D IRREGULAR OBJECT, A FUSION OF TRANS­\nPARENT APPEARANCE, MARINE LIFE OF DISTILLA­\nTION TOWER, FUSION OF INDUSTRIAL AND METAL \nSTYLE. THE APPEARANCE IS MADE OF TRANSLU­\nCENT GLASS MATERIAL, WITH COLOR AND TEM­\nPERATURE INSIDE, ASYMMETRIC, USING HIP POP \nANCIENT FRAGMENTS\n92\n93\n﻿\n \nInteractions I\n",
+    "textBlocks": 4,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-125.jpeg",
+        "sha256": "a1141c1d75b6fdc931b8d7fad64a007149414432400054f661bbf935fa1c477b",
+        "width": 1181,
+        "height": 1183,
+        "bbox": [
+          0.0,
+          0.0,
+          819.2119750976562,
+          820.6300048828125
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p47-art-01.webp",
+        "width": 2458,
+        "height": 2462,
+        "bbox": [
+          0.0,
+          0.0,
+          819.2119750976562,
+          820.6300048828125
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "title": "Image Studies",
+    "text": "SCI-Arc\nZian Xu\n1A\nInteractions I\n94\n95\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-126.jpeg",
+        "sha256": "292f8627f84702fba38178d63b4c5324cdd9319bcb6cc4dd05246fcd9fd6e096",
+        "width": 977,
+        "height": 973,
+        "bbox": [
+          112.46209716796875,
+          42.52001953125,
+          482.8130187988281,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-127.jpeg",
+        "sha256": "7cb4b6a676498af7323fa91dbe02626dfa169e57ad19ff6532f995e24d715267",
+        "width": 886,
+        "height": 886,
+        "bbox": [
+          116.22000122070312,
+          431.57501220703125,
+          482.81298828125,
+          799.3709716796875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-128.jpeg",
+        "sha256": "484d3e157a16af7aae24c083830252e4cf5c29b639e090dc1007c58fe10d0851",
+        "width": 880,
+        "height": 883,
+        "bbox": [
+          729.2119750976562,
+          42.52001953125,
+          1095.805908203125,
+          410.3150329589844
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-129.jpeg",
+        "sha256": "160766a0101328df3ddc65987be092261399d14e92a7fc9b4f43236e829d548a",
+        "width": 936,
+        "height": 931,
+        "bbox": [
+          729.2119750976562,
+          431.5750427246094,
+          1097.6689453125,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p48-art-01.webp",
+        "width": 1112,
+        "height": 1104,
+        "bbox": [
+          112.46209716796875,
+          42.52001953125,
+          482.8130187988281,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p48-art-02.webp",
+        "width": 1101,
+        "height": 1104,
+        "bbox": [
+          729.2119750976562,
+          42.52001953125,
+          1095.805908203125,
+          410.3150329589844
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p48-art-03.webp",
+        "width": 1101,
+        "height": 1105,
+        "bbox": [
+          116.22000122070312,
+          431.57501220703125,
+          482.81298828125,
+          799.3709716796875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p48-art-04.webp",
+        "width": 1107,
+        "height": 1105,
+        "bbox": [
+          729.2119750976562,
+          431.5750427246094,
+          1097.6689453125,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 49,
+    "title": "Geometry / Material",
+    "text": "96\n97\n﻿\n \nSCI-Arc\nZian Xu\n1A\nInteractions I\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-130.png",
+        "sha256": "228e24a81ac1cfdbfefde69faa6d4e6ccb21e91f815c650bc87c54903f387720",
+        "width": 1543,
+        "height": 1542,
+        "bbox": [
+          111.9020004272461,
+          42.52001953125,
+          482.13421630859375,
+          410.3160095214844
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-131.png",
+        "sha256": "6f0935c9357b4eeb8426f7c3baf5dea55e3476df38be966460b5275bf908a26d",
+        "width": 1552,
+        "height": 1542,
+        "bbox": [
+          111.9020004272461,
+          431.57501220703125,
+          483.375,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-132.jpeg",
+        "sha256": "2d09eb70e410ffcb8ad773b6388df0b07152bcefcc7f3d83584d026e2f41c179",
+        "width": 956,
+        "height": 914,
+        "bbox": [
+          704.2714233398438,
+          42.5198974609375,
+          1085.261474609375,
+          406.7718505859375
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-133.jpeg",
+        "sha256": "21bdb57ad5181bbdc9893bd0802f83a82dccfbc5bf7e605264920980be501802",
+        "width": 890,
+        "height": 881,
+        "bbox": [
+          709.79443359375,
+          431.6535339355469,
+          1081.2677001953125,
+          799.3703002929688
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p49-art-01.webp",
+        "width": 1112,
+        "height": 1104,
+        "bbox": [
+          111.9020004272461,
+          42.52001953125,
+          482.13421630859375,
+          410.3160095214844
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p49-art-02.webp",
+        "width": 1144,
+        "height": 1094,
+        "bbox": [
+          704.2714233398438,
+          42.5198974609375,
+          1085.261474609375,
+          406.7718505859375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p49-art-03.webp",
+        "width": 1116,
+        "height": 1105,
+        "bbox": [
+          111.9020004272461,
+          431.57501220703125,
+          483.375,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p49-art-04.webp",
+        "width": 1115,
+        "height": 1105,
+        "bbox": [
+          709.79443359375,
+          431.6535339355469,
+          1081.2677001953125,
+          799.3703002929688
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 50,
+    "title": "Form Studies",
+    "text": "98\n99\n﻿\n \nSCI-Arc\nZian Xu\n1A\nInteractions I\n",
+    "textBlocks": 2,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-134.png",
+        "sha256": "80910efb0e4b358eacbc73eb534f029d5119c7a8d7e2d66b435ffdfc89b30f83",
+        "width": 472,
+        "height": 864,
+        "bbox": [
+          85.03900146484375,
+          42.52001953125,
+          456.37799072265625,
+          728.1498413085938
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-135.jpeg",
+        "sha256": "f9a4f88c851207bfa9735fa3f3bd5fe7bb41eea653a38d2b065b8ea8bfabb13c",
+        "width": 891,
+        "height": 927,
+        "bbox": [
+          615.9099731445312,
+          105.11004638671875,
+          1169.9173583984375,
+          683.14990234375
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p50-art-01.webp",
+        "width": 1115,
+        "height": 2058,
+        "bbox": [
+          85.03900146484375,
+          42.52001953125,
+          456.37799072265625,
+          728.1498413085938
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p50-art-02.webp",
+        "width": 1663,
+        "height": 1735,
+        "bbox": [
+          615.9099731445312,
+          105.11004638671875,
+          1169.9173583984375,
+          683.14990234375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 51,
+    "title": "ZAJEN / Unreal Engine",
+    "text": "100\n101\n﻿\n \nSCI-Arc\nZian Xu\n1A\nInteractions I\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-136.jpeg",
+        "sha256": "d9111d9055a0d4f15846ec8d10029770dd20bfdb042d453f8d5437c253772565",
+        "width": 1203,
+        "height": 818,
+        "bbox": [
+          28.34600067138672,
+          431.5751037597656,
+          566.9290161132812,
+          799.3699951171875
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-137.jpeg",
+        "sha256": "4700bfe2451cd378003e7b59941a50955ca93083ed0e56b365333e558ff89b7d",
+        "width": 822,
+        "height": 559,
+        "bbox": [
+          28.34600067138672,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-138.jpeg",
+        "sha256": "64474591452cd1d78496a65915ccd013760ab22770853170f45c5fb7a8495d5b",
+        "width": 722,
+        "height": 494,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          1162.205078125,
+          410.31500244140625
+        ]
+      },
+      {
+        "occurrence": 4,
+        "path": "assets/images/original-139.jpeg",
+        "sha256": "ff385ff1356eb86f42c770a02db8e9ce2058275196699440f569b2ce31088e18",
+        "width": 1007,
+        "height": 685,
+        "bbox": [
+          623.6220092773438,
+          431.57403564453125,
+          1162.205078125,
+          799.3699951171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p51-art-01.webp",
+        "width": 1616,
+        "height": 1104,
+        "bbox": [
+          28.34600067138672,
+          42.52001953125,
+          566.9290161132812,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p51-art-02.webp",
+        "width": 1617,
+        "height": 1104,
+        "bbox": [
+          623.6220092773438,
+          42.52001953125,
+          1162.205078125,
+          410.31500244140625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p51-art-03.webp",
+        "width": 1616,
+        "height": 1105,
+        "bbox": [
+          28.34600067138672,
+          431.5751037597656,
+          566.9290161132812,
+          799.3699951171875
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p51-art-04.webp",
+        "width": 1617,
+        "height": 1105,
+        "bbox": [
+          623.6220092773438,
+          431.57403564453125,
+          1162.205078125,
+          799.3699951171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 52,
+    "title": "Full Video",
+    "text": "102\n103\n﻿\n \nScan QR code to get full video\n",
+    "textBlocks": 3,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-140.jpeg",
+        "sha256": "29b68211de96e34ec245e1b472975810057cb4bb3c0656317515dc56922feaf3",
+        "width": 1225,
+        "height": 703,
+        "bbox": [
+          0.0,
+          0.00103759765625,
+          1190.550048828125,
+          841.8900146484375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-141.png",
+        "sha256": "d6191603dd7bdbc17bd5afb5a62c24733e3f1f59cf573b8e568a4fc29391c509",
+        "width": 495,
+        "height": 495,
+        "bbox": [
+          28.346435546875,
+          682.4420166015625,
+          147.0469970703125,
+          801.1419677734375
+        ]
+      }
+    ],
+    "vectorPaths": 2,
+    "webArtwork": [
+      {
+        "src": "assets/images/p52-art-01.webp",
+        "width": 2800,
+        "height": 1981,
+        "bbox": [
+          0.0,
+          0.00103759765625,
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 53,
+    "title": "Villa Savoye",
+    "text": "Instructors:\nClaire Phillips\nSpring 2025\nArchitects: Le Corbusier, Pierre Jeanneret\nLocation: 82 Rue de Villiers, 78300 Poissy, France\nClient: Pierre and Eugénie Savoye\nTopics: Villa, Unesco World Heritage, Concrete\nStyle: Modernism, International Style\nArea: 480 square meters / 5,100 square feet\nProject Year: 1928-1931\nThe exterior of Villa Savoye is perfect white concrete, from a distance this build­\ning looks like a perfect white modern ship floating on green grass. Its façade looks \nseamless from the whole and exudes a feeling of near perfection, a feeling that gives a \nsense of timelessness and avant-garde purity that doesn’t feel like a building made in \nthat era. The villa exemplifies Le Corbusier’s “Five Points of Architecture,” including \npilotis, a flat roof terrace, ribbon windows, an open plan, and a free façade, making \nit a masterful display of modernist principles (Kroll). The entire villa is like a white \nbox suspended from slender pillars. This bold design approach is more of an exquisite \nsculpture than a house.\nSemester:\nForms of writing I\nApproaching this building from the garden, one \nwill not feel the boundary between natural and man-\nmade objects. The building has an appearance that \ndoes not fit in with the surrounding landscape and \nenvironment, but its innovative large glass and lev­\nitation theme does not disturb the visual balance of \nthe surroundings; it is more like levitating above the \nsurroundings, and the innovative large windows give \nthe building warmth. The green grass seems to sepa­\nrate the building from the woods outside, revealing a \ndreamy living machine, indifferent and unassuming.\nThe structure of the Villa Savoye appears to be \nunaffected by gravity. The elevated structure of the \nground floor gives the impression that the subject of \nthe house is suspended in the air, a design that allows \ncirculation between air and space. The columns are \nvery thin and stand like delicate reeds, elegant and \nfirm, allowing the plane of the house to be unrestrict­\ned by the ground, visually weakening the abruptness \nthat the columns bring to the building itself. This sus­\npension of solidity gives the villa a weightless visual \nexperience, as if it were not built but suspended.\nIn the interior of the villa, Corbusier still utilizes a \nminimalist style that matches the exterior. The spiral \nramp, a key feature, guides visitors from the lower \nlevel to the open-air roof terrace. This design choice, \nin keeping with Corbusier’s concept of an “architec­\ntural promenade,” slows the movement of inhabitants \nand offers a dynamic spatial experience (Kroll). \nRamps are used extensively in the villa, not only as \na means of connecting different planes of transporta­\ntion, but also as a stylistic device, allowing the style \nof the entire house to form an integrated whole, a \nseamless unfolding of a picture, from the oppressive \ninterior spaces to the freedom of the sky on the top \nfloor.\nFrom the inside, Villa Savoye is a simple assemblage \nof planes and lines, a large white box suspended on a \nfew very thin columns. But underneath the seemingly \nsimple minimalist exterior lies the architect’s metic­\nulous attention to proportion, a perfect combination \nof different geometric and spiral shapes, a composite \nshape that wavers on the edge of abstraction. The \nsecond-floor wall of the banded window plan ex­\n104\n105\n﻿\nSCI-Arc\nZian Xu\n1A\nForms of writing I\n",
+    "textBlocks": 12,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-142.jpeg",
+        "sha256": "6b1ffef7036e02deb0a08e3581b21ec3b5fb9c65aedefe7e3847c5e53b8401e0",
+        "width": 554,
+        "height": 369,
+        "bbox": [
+          138.01100158691406,
+          275.3746337890625,
+          457.26397705078125,
+          507.5790100097656
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-143.jpeg",
+        "sha256": "58a1aa7eb302662468fcb8e9d65dbf380e0b51a53905d160d44f59a69174c852",
+        "width": 1006,
+        "height": 548,
+        "bbox": [
+          677.509033203125,
+          93.54400634765625,
+          1113.8353271484375,
+          334.31298828125
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p53-art-01.webp",
+        "width": 1310,
+        "height": 723,
+        "bbox": [
+          677.509033203125,
+          93.54400634765625,
+          1113.8353271484375,
+          334.31298828125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p53-art-02.webp",
+        "width": 958,
+        "height": 697,
+        "bbox": [
+          138.01100158691406,
+          275.3746337890625,
+          457.26397705078125,
+          507.5790100097656
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 54,
+    "title": "Villa Savoye / Continued & Works Cited",
+    "text": "Zian Xu\nThe surroundings of Villa Savoy are quiet, \nSunlight streams through the top-level glass, \nfiltered through white walls to create a ra­\ndiant, serene atmosphere. The rooftop gar­\nden—accessed via a gently sloping ramp—\nembodies Corbusier’s philosophy of uniting \narchitecture, nature, and the human spirit \n(Kroll). The combination of functional design \nand poetic spatial elements makes the villa a \ntimeless architectural masterpiece.\nWhen looks back from afar at this large white \nship suspended over a green sea, it is still \nimpressed by its originality and boldness. \nReinforced concrete was still a new materi­\nal in the early 1900s, and Corbusier’s bold \napproach to design with thin columns, open \nfloor plans and roof terraces makes this house \na feat in architectural history that exudes mo­\ndernity, avant-garde and innovation from the \n-tends, and this infinity of oversized windows \ncreates a dialog between the interior and \nnature, a perfect combination of windows and \npicture frames, revealing a dynamic picture \nof nature; As Kroll notes, the ribbon windows \nallow light to flood the living spaces while \nemphasizing the villa’s industrial aesthetic, a \nnod to Corbusier’s admiration for the efficien­\ncy of steamships and their streamlined design \n(Kroll).\nThe villa was born in the midst of a period of \nstylistic change, when people sought to elim­\ninate ornamentation in favor of functionality \nand universality. However, its purpose tran­\nscends utility. It was not just a dwelling but a \nconceptual prototype that redefined modern \nliving in the industrial age (Kroll), and an \nobject of imitation for later generations that \nbecame the standard bearer of the style.\ninside out, from the design to the construc­\ntion process. This light makes it an example \nof the fusion of materials and imagination, \nlike a reinforced concrete giant with a soul, \nsteel and concrete as its skeleton, glass and \nbeautiful white paint as its skin; a silent in­\nvitation to rethink the definition of home and \narchitecture. inside out, from the design to the \nconstruction process. This light makes it an \nexample of the fusion of materials and imagi­\nnation, like a reinforced concrete giant with a \nsoul, steel and concrete as its skeleton, glass \nand beautiful white paint as its skin; a silent \ninvitation to rethink the definition of home \nand architecture.\nNowadays, Villa Savoye has become a mon­\nument; it is a bold exploration of a radical \nquest for art and science in a time of confu­\nsion, a vision of a life free from the con-\nfusion, a vision of a life free from the con­\nstraints of tradition, boldly constructed in \nsuch a way that it is skillfully erected on \nground-floor overhead columns as if it were \nfloating in the air.\nWork cited:\nArcdaily; Villa Savoye by Le Corbusier: A \nMasterpiece of Modern Architecture; Written \nby Andrew Kroll, February 24, 2024\nBenton, Tim (1987). The Villas of Le Corbus­\nier. New Haven and London: Yale University \nPress.\nCurtis, William J R (2006). Le Corbusier \n-Ideas and Forms. London & New York: \nPhaidon Press.\n106\n107\n﻿\nSCI-Arc\n1A\nForms of writing I\n",
+    "textBlocks": 11,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-144.jpeg",
+        "sha256": "d1adfa15833eeff14492dc6dc18ea0fa84d91bf93c6bc1149d3dbcbdecf19308",
+        "width": 851,
+        "height": 566,
+        "bbox": [
+          107.05803680419922,
+          80.52203369140625,
+          488.666015625,
+          334.31103515625
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-145.jpeg",
+        "sha256": "8ba74a8c747d1db9ca6613fbb679b30e47b7d591d676de281fb7e9136bc3983a",
+        "width": 372,
+        "height": 270,
+        "bbox": [
+          723.9669799804688,
+          81.00701904296875,
+          1060.5260009765625,
+          334.31201171875
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p54-art-01.webp",
+        "width": 1145,
+        "height": 762,
+        "bbox": [
+          107.05803680419922,
+          80.52203369140625,
+          488.666015625,
+          334.31103515625
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p54-art-02.webp",
+        "width": 1011,
+        "height": 760,
+        "bbox": [
+          723.9669799804688,
+          81.00701904296875,
+          1060.5260009765625,
+          334.31201171875
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 55,
+    "title": "Grande Arche de la Défense, Paris",
+    "text": "Quote:\n“ The Grande Arche is not merely a monument, but a portal through \nwhich we glimpse the continuum of time—a modern gateway to our col­\nlective future.”\nKeyword: Gateway\nThe word “gateway” perfectly describes the architecture of the Grande \nArche and the nature it gives to La Défense in Paris. The Grande Arche is \nan interpretation of the classical arch and a modern reinterpretation of the \nArc de Triomphe in the central area of Paris. The Grande Arche has been \na striking landmark since its construction, and from the historic center of \nParis towards the modern business district of La Défense it represents the \nentrance to the new city as a threshold. I chose “gateway” as a keyword \nbecause it represents the building as a gateway, which can function as a \nlarge entrance, but also connects the past and the future of the city in both \ndirections, whether it be from the old city to the new city or in the oppo­\nsite direction, symbolizing the crossing. In this exploration I will do so by \ncomparing the Grande Arche to its historical precedents. With the Grande \nArche’s shaped design of the entrance and the collection of very bold \nshapes standing alone, architect Johann Otto wanted to create a sense of \nopenness and transparency in the viewer’s senses; it is reminiscent of the \nArc de Triomphe, to which it corresponds, along with the taller buildings, \nbut the exaggerated and narrower blocks of white rectangles also reflect \na sense of modernity. It serves as a symbolic link between two different \nregions and eras in the same city; it emphasizes not only the visual and \nspatial qualities of the building, but also the narratives embedded in it - \nnarratives of transition, continuity and new beginnings.\nSemester:\nFall 2024\nAmoreasano Giulia\nInstructors:\nZian Xu\nHistory of architecture I\nGrande Arche de la Défense, Paris\nPrecedent 1: Siting & Plan; The Arch of Titus, Rome\nThe Arch of Titus functioned as one of the earliest and clearest architec­\ntural gateways in Roman urbanism; its position signaled entry into the \nsacred core of the Forum and marked the culmination of imperial pro­\ncessions. It precisely aligned with the Via Sacra, acting as a ceremonial \nthreshold into the Roman Forum. It not only marked the end of military \nprocessions, but also visually connected key parts of the city through its \naxial alignment. The space surrounding the arch encouraged gathering, \nreinforcing its public and performative function. Its scale, central pas­\nsage, and placement made it a hinge between everyday civic life and the \nsacred heart of Rome. The monument’s integration into the processional \nroute gave it temporal and spatial meaning, it was a gate into a narrative \nspace. There is a similarity in the exploration of the location of the Arc de \nTitus and the Grande Arche, both are landmarks in the central area of ​the \ncity, the “gateway,” which gives a sense of power and space.\nPrecedent 2: Form; The Arc de Triomphe, Paris\nThe Arc de Triomphe is a monumental gateway and landmark that defines \nthe axial of western Paris; it functions not only as a memorial but also as \na spatial marker that frames the city’s ceremonial spine. It dominates its \nsite with symmetry and weight. Its single arch frames space with dramat­\nic clarity, and the dense sculptural reliefs on its surfaces project symbolic \nauthority. The proportions are deliberate, scaled to the surrounding urban \nfabric yet clearly meant to be read from a distance. Pedestrians and vehi­\ncles move around and under it, reinforcing its identity as both monument \nand threshold. Its form does not simply contain space, it stages it, making \nthe passage through feel ceremonial. This form of dialogue between past \nand present emphasizes a new entrance to the city and its cultural expres­\nsion.\nHistory of architecture I\n108\n109\n﻿\n \nSCI-Arc\n1B\n",
+    "textBlocks": 11,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-146.jpeg",
+        "sha256": "76d2a298cf350ecefa3399fd64ac9b1e80f41a2e4c24e1de4f228c7fd588aa7e",
+        "width": 1600,
+        "height": 896,
+        "bbox": [
+          28.34644317626953,
+          118.52398681640625,
+          447.8900146484375,
+          334.208984375
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-147.jpeg",
+        "sha256": "985563f0d867fec45494b98ceef6a0411b9d86b114f71d934854b8fb08a633b7",
+        "width": 736,
+        "height": 449,
+        "bbox": [
+          742.323486328125,
+          42.52001953125,
+          1162.2039794921875,
+          297.63800048828125
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p55-art-01.webp",
+        "width": 1261,
+        "height": 766,
+        "bbox": [
+          742.323486328125,
+          42.52001953125,
+          1162.2039794921875,
+          297.63800048828125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p55-art-02.webp",
+        "width": 1259,
+        "height": 648,
+        "bbox": [
+          28.34644317626953,
+          118.52398681640625,
+          447.8900146484375,
+          334.208984375
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 56,
+    "title": "Precedents / Siting & Plan",
+    "text": "Precedent 3: Elevation; The Gateway of India, Mumbai\nThe Gateway of India is one of the most prominent examples of a land­\nmark gateway in South Asia, symbolizing both colonial authority and the \npoint of arrival into the Indian subcontinent. It creates a sense of grandeur \nthrough vertical layering and ornament. Built at the edge of the Arabian \nSea, combining colonial architectural motifs with local forms. Form a \nspatial and ceremonial façade that is both decorative and directive. The \nelevation reinforces its threshold role; dividing water and land, foreign \nand local. The reliefs of the Grande Arche are very similar to this one in \nthat they are both grid-like patterns, and the glass and steel of the Grande \nArche utilize a large number of repetitions of these patterns on the vertical \nsurfaces of the building, with the glass and steel vertically bonded to link \nthe modern transparency with the tradition of the historic building.\nPrecedent 4: Detail; Arch of Septimius Severus\nThe Arch of Septimius Severus served as a narrative landmark into the \npolitical heart of Rome; visitors moved through its visual story of imperial \nconquest, structured through sculpture. The tiered relief panels that make \nup the arch tell the story of the emperor’s military expeditions. These \ncarvings serve as more than just ornaments; they direct spectators around \nthe building. The sculpture’s depth and intricacy vary, drawing the view­\ner’s attention to the vaults, columns, and architraves. Ornament becomes \na kind of spatial storytelling as each surface element contributes to the \nmonument’s story. The arch’s detailing transforms it into a teaching tool. \nThe modern materials of the Grande Arche appear to be more flat, and the \ndetails are an expression of minimalism. \nZian Xu\nPrecedent 5: Contextualization; The Brandenburg Gate\nThe Brandenburg Gate is Berlin’s most iconic architectural gateway, long \nserving as a symbolic and spatial connector across divided and reunited \nparts of the city. Built in a neoclassical style with Doric columns, refer­\nences Athenian democracy while reinforcing its role in the city’s civic and \nceremonial life. It is not an isolated object but a connection point between \nimportant urban axes. Its location at the end of Unter den Linden. Over the \ncenturies, its meaning has changed; from a royal thoroughfare to a Cold \nWar frontier, illustrating how architecture embodies shifting political and \ncultural thresholds. The design reflects the harmony of its surroundings, \nwith the overall form and style of the building harmony with the scale and \nhistory of the buildings around Berlin, while it asserts its own presence \nthrough texture and form. The Grande Arche, located in La Défense, Paris, \na modern neighborhood of tall buildings, with its commercial buildings on \nthe side, forms the entrance to Paris from La Défense.\nImage 1: Grande Arche Siting & Plan\nThe Grande Arche is located at the end of the central axis of Paris. This \narea is the La Défense business district, which plays an important role \nboth in terms of space and in shaping the city’s gateway. Like the Arch of \nTitus, it is also located at a key central axis, forming a hub for transporta­\ntion and citizens in the city. This modern area marks the transition of Paris \nfrom a historic city to a modern business district. The wide square in front \nof the Grande Arche provides public space, separating it from other high-\nrise towers around it, enhancing its visual clarity and autonomy; it also \nechoes its status as a civic hub. This open space echoes the ceremonial \nforecourt of the ancient arch, where people can gather, stay and reposition \nthemselves. As a landmark, the Grande Arche becomes a hub of urban \nplanning. \nHistory of architecture I\n110\n111\n﻿\n \nSCI-Arc\n1B\n",
+    "textBlocks": 8,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-148.jpeg",
+        "sha256": "34bdb8938da169e6f6955736b954e3053404442aa5d8b68e269ebf57f256c790",
+        "width": 972,
+        "height": 575,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          448.2270202636719,
+          334.3110046386719
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-149.jpeg",
+        "sha256": "d33b0ae02285c135c6c409c60b7dff8f8fffa49e07fb0c77ec4e335b75dc3014",
+        "width": 723,
+        "height": 456,
+        "bbox": [
+          742.32275390625,
+          537.1370239257812,
+          1162.1038818359375,
+          799.3710327148438
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p56-art-01.webp",
+        "width": 1260,
+        "height": 876,
+        "bbox": [
+          28.346435546875,
+          42.52001953125,
+          448.2270202636719,
+          334.3110046386719
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p56-art-02.webp",
+        "width": 1261,
+        "height": 788,
+        "bbox": [
+          742.32275390625,
+          537.1370239257812,
+          1162.1038818359375,
+          799.3710327148438
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 57,
+    "title": "Form / Elevation / Detail",
+    "text": "Image 2: Grande Arche Form\nThe Grande Arche is a huge cube, a structure that showcases the arch \nstructure and the symbol of the Gateway. It draws on the precedent of the \nArc de Triomphe, whose single arch is simple and recognizable. The New \nArc de Triomphe echoes this logic, but inverts its materiality and mass. It \nreplaces stone with steel and glass, which, although not as permanent as \nstone, can intuitively demonstrate openness and make the building lighter. \nThe huge central void is a passage space, symbolizing accessibility and \ntransparency. The symmetrical composition and strict geometry enhance \nits status as a city icon. By allowing light and people to pass through, the \nshape of the New Arc de Triomphe constructs the experience of the thresh­\nold rather than simply closing it off. Such a presence allows the landmark \nstructure and the city to participate in redefining monumentality.\nImage 3: Grande Arche Elevation\nThe vertical facade of Grande Arche is composed of a vertical glass and \nsteel grid system that interestingly transforms light and shadow into its \ndecoration. The gridded structure is reminiscent of the facade of the Gate­\nway of India, which uses depth, decoration and proportion to project a \nthreshold, without being monotonous. Although Grande Arche abandons \nthe historical triumphal arch configuration, it has the same architectural \nfunction: through transition; the facade achieves this through repetition, \nscale and lightness of materials. The white inner cladding contrasts with \nthe glass facade, and the reflective glass draws the eye to the sky and \ndeepens the openness of the structure. This design transforms the box-\nshaped gateway into a dynamic part that drives the experience. Transform \nthe facade into a dynamic visual effect, emphasizing the role of this build­\ning as a gateway.\nZian Xu\nHistory of architecture I\nImage 4: Grande Arche Detail\nThe architectural details of Grande Arche are full of the simplicity of \nmodern industrial design. The overall feeling is simple and smooth, but \nthe internal details rely on precision and subtle irregularities. Unlike the \nArch of Septimius Severus, it has almost no decorative patterns. While \nthe latter needs to tell the story of history and conquest through complex \nreliefs, Grande Arche only needs to communicate spatial and visual nar­\nratives through the building itself. Its large glass panels and steel frames \nintroduce different visual spaces and layers. These details reflect their \nvalue by retaining the original industrial dryness rather than deliberately \ndecorating. Through these techniques, the details strengthen the concept of \ngateway; it is not just an entrance, but an architectural system that em­\nphasizes transparency, accessibility and lightness. The entire design trans­\nforms the traditional spatial structure into a detailed experience, guiding \nusers through a modern reinterpretation of the monumental passage.\n112\n113\n﻿\n \nSCI-Arc\n1B\n",
+    "textBlocks": 7,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-150.png",
+        "sha256": "9b7e12a24fc23b52c154d2f543bf12818f437ebaa0be5e45b73a056dfb462f7b",
+        "width": 930,
+        "height": 603,
+        "bbox": [
+          28.347000122070312,
+          42.52001953125,
+          448.22802734375,
+          313.052001953125
+        ]
+      },
+      {
+        "occurrence": 2,
+        "path": "assets/images/original-151.jpeg",
+        "sha256": "7b9cf59fe7aaba42996a91f7b551d57541de0cf8b49b2c396c947df9d2e27f43",
+        "width": 903,
+        "height": 498,
+        "bbox": [
+          741.4981689453125,
+          42.52001953125,
+          1159.7239990234375,
+          270.708984375
+        ]
+      },
+      {
+        "occurrence": 3,
+        "path": "assets/images/original-152.jpeg",
+        "sha256": "980307f7c57771481c2e1a173d83495c30cb3acebb1ed1513af26d7768e1a922",
+        "width": 950,
+        "height": 602,
+        "bbox": [
+          743.7401123046875,
+          548.5050048828125,
+          1162.2047119140625,
+          798.0108032226562
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p57-art-01.webp",
+        "width": 1260,
+        "height": 813,
+        "bbox": [
+          28.347000122070312,
+          42.52001953125,
+          448.22802734375,
+          313.052001953125
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p57-art-02.webp",
+        "width": 1256,
+        "height": 686,
+        "bbox": [
+          741.4981689453125,
+          42.52001953125,
+          1159.7239990234375,
+          270.708984375
+        ],
+        "small": false
+      },
+      {
+        "src": "assets/images/p57-art-03.webp",
+        "width": 1256,
+        "height": 750,
+        "bbox": [
+          743.7401123046875,
+          548.5050048828125,
+          1162.2047119140625,
+          798.0108032226562
+        ],
+        "small": false
+      }
+    ]
+  },
+  {
+    "page": 58,
+    "title": "Contextualization / Conclusion / References",
+    "text": "Image 5: Grande Arche Contextualization\nLocated in the La Défense business district, with Paris’ most modern \nskyline, the Grande Arche forms the backbone of the area. Much like the \nBrandenburg Gate in downtown Berlin, it is not only a central point, but \nalso a symbol of historical change and a spatial and physical connection \npoint that organizes the surroundings by defining boundaries and open­\ning up views. In a deliberate alignment with the Arc de Triomphe and \nhistoric Paris, it translates visual and symbolic meanings from distance \nto time along a central axis; stretching through the centuries. The build­\ning is surrounded by tall office buildings, but its hollow shape is a unique \nurban landmark from the front and side. But its modern form blends into \nthe background and does not appear to be intrusive. The surrounding large \nsquares and crossroads create intersections for the building; highlighting \ncentrality. It does not compete with the environment, but reshapes it. As \na gateway and a new landmark for the city, it not only divides space, but \nalso connects history and architectural language in a contextualized way, \nredefining environmental integration as an active gateway.\nConclusion:\nThe gramde arche explores how buildings can serve more than just shel­\ntering functions, they can shape how we experience culture, history, and \nsocial change. Louis Kahn’s essay Monumentality reflects this idea by \ndefining monuments as structures that embody permanence and stir collec­\ntive memory. For Kahn, a true monument must go beyond appearance—it \nshould emotionally resonate and mark something larger than its practical \nuse. In contrast, Adrian Forty’s Words and Buildings approaches the idea \nZian Xu\nHistory of architecture I\nof “threshold” as a spatial condition: a moment of transition, a link be­\ntween inside and outside, or between civic and personal life. For Forty, \nthresholds are not just doors or passages—they’re zones of interaction \nthat structure everyday experience. Though coming from different angles, \nboth writers touch on a shared idea: architecture can anchor people in time \nand space, helping them locate themselves socially and historically while \nacting as meaningful urban landmarks.\nMy case study, the Grande Arche in La Défense, Paris, captures this dual \nidea of monumentality and threshold. Positioned at the western end of \nParis’s historical axis, its open cube form is both monumental in scale and \nporous in experience. Like the Arch of Titus, it aligns with the city’s major \naxis and frames civic movement. Its form recalls the Arc de Triomphe, but \ninstead of stone and sculpted relief, it uses steel and glass, presenting an \nabstract, modern reimagining of a national monument. The Grande Arche \nopens space rather than enclosing it—it invites circulation, both physically \nand symbolically. The visible steel framework and minimalist detailing \ncontrast with the richly carved surfaces of structures like the Arch of Sep­\ntimius Severus, foregrounding a new kind of monument; one of openness \nand flow. Through these gestures, the Grande Arche doesn’t just echo \nhistory, it repositions it within a modern urban context.\n\nWhat makes the Grande Arche powerful is how it expresses the threshold \nnot only through form, but through its integration with the city. It chal­\nlenges the traditional notion of monumentality. Instead of anchoring itself \nthrough heavy materiality or ornate symbolism, it uses flatness, transpar­\nency, and modern construction to suggest a future-facing vision. This calls \ninto question Kahn’s idea of timeless permanence, proposing instead that \nmonuments can be light, flexible, and inviting. At the same time, it ex­\npands on Forty’s idea of the threshold, turning it into a large-scale urban \nexperience. It becomes more than an object—it becomes a connector of \npast and future, of tradition and innovation. In doing so, the Grande Arche \nreframes how we think of monuments today. It proves that monumentality \nand threshold are not only compatible; they can be combined into a sin­\ngle architectural act that redefines how we encounter space, memory, and \nprogress in the modern city.\nKahn, Louis. “Monumentality.” In Architectural Theory: A Reader in \nPhilosophy and Culture, edited by Michael Hays.\nForty, Adrian. “At the Threshold of Architecture.” 2000.\n114\n115\n﻿\n \nSCI-Arc\n1B\n",
+    "textBlocks": 9,
+    "images": [
+      {
+        "occurrence": 1,
+        "path": "assets/images/original-153.jpeg",
+        "sha256": "47632898ceb78d47a5c799a307cca6d82cee70bed0e1ee260c0e2c3952f28ead",
+        "width": 776,
+        "height": 542,
+        "bbox": [
+          28.346420288085938,
+          42.52001953125,
+          448.2279968261719,
+          336.6567687988281
+        ]
+      }
+    ],
+    "vectorPaths": 0,
+    "webArtwork": [
+      {
+        "src": "assets/images/p58-art-01.webp",
+        "width": 1260,
+        "height": 883,
+        "bbox": [
+          28.346420288085938,
+          42.52001953125,
+          448.2279968261719,
+          336.6567687988281
+        ],
+        "small": false
+      }
+    ]
+  }
+]

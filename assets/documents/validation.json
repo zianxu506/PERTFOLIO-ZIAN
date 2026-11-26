@@ -1,0 +1,34 @@
+{
+  "pdf_pages": 58,
+  "chapters": 9,
+  "native_image_occurrences": 155,
+  "unique_original_images": 153,
+  "artwork_regions": 127,
+  "text_characters": 40425,
+  "source_pdf_sha256": "becc137582141963c877d26a255268dce6254eba0c2ee27708d10039b9753d38",
+  "broken_local_references": 0,
+  "duplicate_html_ids": 0,
+  "total_bytes": 171084908,
+  "largest_files": [
+    [
+      "portfolio.pdf",
+      73664731
+    ],
+    [
+      "original-021.png",
+      6572116
+    ],
+    [
+      "original-020.png",
+      4186884
+    ],
+    [
+      "original-089.png",
+      3880378
+    ],
+    [
+      "original-060.png",
+      3084523
+    ]
+  ]
+}

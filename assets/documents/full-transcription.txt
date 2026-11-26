@@ -1,0 +1,1370 @@
+=== PDF PAGE 1 ===
+SCI-Arc
+2024-2026
+Zian Xu
+Portfolio
+
+
+=== PDF PAGE 2 ===
+SCI-ARC
+2024-2026
+Zian_Xu@Sciarc.edu 
+(213)326-8697
+Zian Xu
+Portfolio
+
+
+=== PDF PAGE 3 ===
+I came to SCI-Arc with an interest in architec­
+ture, but not a clear idea of what it could be be­
+yond finished buildings. Living in Downtown 
+Los Angeles started to shift that. The city’s 
+density, infrastructure, and constant movement 
+made me more aware of how space is shaped 
+by use, circulation, and change, rather than fixed 
+form.
+In the studio, I began to understand architecture 
+as a process. I moved between drawing, model­
+ing, and making, using both digital and physical 
+tools to test ideas. Some projects were abstract, 
+translating images into 3D forms or using simple 
+operations to generate spatial models, while oth­
+ers focused on site and program, like an elemen­
+tary school or a public pool. Working between 
+these approaches made the process feel iterative 
+rather than linear.
+Material and environmental thinking also be­
+came important. Through fabrication, I worked 
+with papier-mâché and casting, eventually 
+building a full-scale chair. In another studio, I 
+mapped flora and fauna and used that to devel­
+op a fitness center that integrates wind energy. 
+These projects pushed me to think about archi­
+tecture as part of larger environmental systems. 
+At the same time, I explored how to represent 
+work through photography and layout, using 
+tools like robotic cameras to capture models un­
+der different lighting. Looking back, these expe­
+riences are less about final outcomes and more 
+about how I think and work.
+In the future, I want to continue working this 
+way, developing projects that connect environ­
+mental systems, material experimentation, and 
+spatial design.
+Statement
+
+
+=== PDF PAGE 4 ===
+P104-107
+P108-115
+History of Architecture I
+P90-103
+1A Studio: Interactions I
+History Theory
+Liberal Arts
+Forms of Writing I
+P66-83
+P84-89
+P40-57
+P58-65
+P08-31
+P32-39
+2A Studio: Environments I
+Visual Studies II
+1B Studio: Interactions II
+Visual Studies I
+Spring 2025
+Fall 2024
+Fall 2025
+2B Studio: Environments II
+Visual Studies III
+Spring 2026
+Contents
+
+
+=== PDF PAGE 5 ===
+In this studio, we explore how architecture can 
+respond to ecological and environmental con­
+ditions within complex urban contexts. The site 
+is analyzed through its flora and fauna, using 
+graphics and color mapping to represent spe­
+cies and environmental zones. Precedents are 
+studied and reinterpreted with techniques like 
+pixel sorting, generating abstract images that 
+translate environmental data into visual form. 
+These images guide the development of initial 
+3D-printed models, which are then refined into 
+a fitness center that responds to both program 
+and environment. The design incorporates sus­
+tainable strategies, including wind energy gen­
+eration. Unreal Engine renders visualize the 
+building in its context, highlighting architec­
+ture as part of a larger ecological system con­
+necting design, energy, and landscape.
+Zian Xu
+Justin Hsu
+Spring 2026
+Team:
+Semester:
+Jennifer Chen
+Angelica Lorenzi
+Kordae Henry
+Peter Trummer
+William Virgil
+Instructors:
+2B STUDIO
+Environments II
+8
+9
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 6 ===
+10
+11
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 7 ===
+Axonometric
+13
+12
+2B
+Environments II
+SCI-Arc
+Zian Xu
+
+
+=== PDF PAGE 8 ===
+Room Section
+Building Section
+14
+15
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 9 ===
+16
+17
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 10 ===
+Axonometric Drawing
+18
+19
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 11 ===
+Second Floor Plan
+Top Floor Plan
+This plan highlights the integration of secondary program elements and energy-har­
+vesting zones. The spacing between volumes is strategically tightened to create 
+accelerated airflow for the integrated wind turbines. This layout coordinates the 
+vertical stack effect through the central spine while managing the closed-loop water 
+system that facilitates thermal exchange between the plant rooms and the pool.
+This level establishes the central spine as the primary infrastructural axis of the 
+building. The basketball courts are positioned as large-volume “lungs” to maximize 
+natural air intake and cross-ventilation. Supporting programs, including the restau­
+rant and retail units, branch directly from the core to ensure efficient circulation and 
+streamlined service distribution across the floor plate.
+20
+21
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 12 ===
+Section
+22
+23
+﻿
+ 
+
+
+=== PDF PAGE 13 ===
+s
+Wind&Water Cycle
+24
+25
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 14 ===
+26
+27
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 15 ===
+28
+29
+﻿
+ 
+2B
+SCI-Arc
+Zian Xu
+Environments II
+
+
+=== PDF PAGE 16 ===
+30
+31
+﻿
+Semester
+ 
+SCI-Arc
+Scan QR code to get full video
+
+
+=== PDF PAGE 17 ===
+In this course, we focus on how architectural 
+work is documented, curated, and presented 
+through the format of a portfolio. As students, 
+we learn to organize projects from different 
+studios and courses into a cohesive body of 
+work, thinking about the portfolio not just as 
+a collection, but as a way to communicate our 
+own design approach and ideas. A key part of 
+the class is the “Capture” section, where we 
+photograph our models using a robotic arm in 
+the Robot House. By adjusting lighting, back­
+grounds, and camera angles, we produce a large 
+series of images that reveal different views, 
+materials, and colors of each model, helping 
+us understand how representation can shape 
+perception. Alongside this, we also participate 
+in discussions about image-making and visual 
+storytelling, exploring how sequencing, fram­
+ing, and narrative can influence the way a proj­
+ect is read. Through these combined exercis­
+es, the course helps us develop both technical 
+skills and a clearer sense of authorship in how 
+we present our work.
+Spring 2026
+Semester:
+Jennifer Chen
+Curime Batliner
+Devyn Weiser
+Instructors:
+Visual Studies III
+32
+33
+﻿
+ 
+SCI-Arc
+Zian Xu
+2B
+Visual Studies III
+
+
+=== PDF PAGE 18 ===
+These shots test the model’s silhouette against high-con­
+trast backgrounds. The checkerboard frames use a shallow 
+depth of field to pull the red and blue clusters forward, while 
+the clean white versions strip away all distractions. This 
+side-by-side comparison highlights the intricate, stacked 
+geometry and the logic behind each color’s placement.
+These shots focus shifts to atmosphere and depth. The top 
+frames use a dramatic halo effect to isolate the model’s 
+form, casting deep shadows into its inner crevices. Below, 
+we introduced a cool cyan light, which brings out the sub­
+tle textures on the upper surfaces and gives the entire as­
+sembly a more industrial, moody feel.
+34
+35
+﻿
+ 
+SCI-Arc
+Zian Xu
+2B
+Visual Studies III
+
+
+=== PDF PAGE 19 ===
+36
+37
+﻿
+ 
+SCI-Arc
+Zian Xu
+2B
+Visual Studies III
+
+
+=== PDF PAGE 20 ===
+38
+39
+﻿
+ 
+SCI-Arc
+Zian Xu
+2B
+Visual Studies III
+
+
+=== PDF PAGE 21 ===
+In this design studio, we explore architecture 
+through the relationship between interior and 
+exterior space, focusing on how schools can 
+be rethought under changing urban and envi­
+ronmental conditions. As students, we work 
+through a series of projects that build on each 
+other. The first project is a material “sand­
+wich,” where we use found materials to stack 
+and assemble layers, helping us understand 
+spatial relationships and material logic in a 
+hands-on way. The second project is a prece­
+dent study of the Centro Direzionale Subway 
+Station in Naples, where we analyze drawings 
+and reconstruct the project as a 3D model to 
+better understand its spatial and structural sys­
+tem. In the final project, we combine what we 
+learned from the first two exercises to design 
+an elementary school in Los Angeles, using 
+site observations to organize the building as 
+an open, landscape-like system. Through this 
+process, we begin to see how layering, materi­
+al systems, and spatial organization can shape 
+new types of learning environments.
+Fall 2025
+Semester:
+Karel Klein
+Angelica Lorenzi
+Mira Henry
+Jackilin Bloom
+Aminatou Fall
+Instructors:
+2A STUDIO
+Environments I
+40
+41
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Environments I
+
+
+=== PDF PAGE 22 ===
+Isometric Drawing
+Section
+The Centro Direzionale Subway Station in Naples, designed by Miralles 
+Tagliabue EMBT and completed in 2025, is both a transport 
+hub and an urban intervention. Covering about 10,000 (107,639 ft²)square 
+meters, the station redefines the relationship between 
+infrastructure and public space. Above ground, the project creates a new 
+civic plaza with soft topographies, green areas, and ramps that 
+ease the transition between different levels, turning what could have been a 
+purely technical structure into a lively public realm. The roof 
+is one of its most striking elements: a series of vaulted glulam timber arches 
+that recall traditional railway stations while at the same time 
+evoking natural, organic rhythms. Skylights are cut into these vaults, filter­
+ing daylight down into the underground concourses. Below, 
+the walls and ceilings are clad with metallic finishes in Pompeii-inspired 
+tones, referencing Naples’ layered cultural history. The station’s 
+structure combines lightweight wooden vaults with the stability of concrete 
+and steel, a dialogue between old and new materials. 
+Together, the roof, ground, and structure create a fluid, integrated environ­
+ment where circulation, light, and atmosphere blend 
+seamlessly, transforming a metro stop into a civic landmark that feels both 
+contemporary and deeply rooted in place.
+Precident Study-Centro Direzionale Subway Station
+42
+43
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Environments I
+
+
+=== PDF PAGE 23 ===
+Isometric Drawing
+Section
+Roof Plan
+Ground Plan
+45
+44
+2A
+Environments I
+SCI-Arc
+Zian Xu
+
+
+=== PDF PAGE 24 ===
+46
+47
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Environments I
+
+
+=== PDF PAGE 25 ===
+Ground Plan
+48
+49
+﻿
+ 
+SCI-Arc
+2A
+Zian Xu
+Environments I
+
+
+=== PDF PAGE 26 ===
+2nd Floor Plan
+50
+51
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Environments I
+
+
+=== PDF PAGE 27 ===
+Roof Plan
+52
+53
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Environments I
+
+
+=== PDF PAGE 28 ===
+Sections
+54
+55
+54
+﻿
+ 
+SCI-Arc
+Zian Xu
+SCI-Arc
+Zian Xu
+2A
+Environments I
+2A
+Environments I
+
+
+=== PDF PAGE 29 ===
+Isometric Drawing
+56
+57
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Environments I
+
+
+=== PDF PAGE 30 ===
+This course approaches architecture through 
+a speculative and narrative lens, asking us to 
+rethink an existing building not as something 
+fixed, but as something that can be trans­
+formed. Working from the precedent of the 
+Leubinger Fürstenhügel Service Station . As 
+the project develops, the building is relocat­
+ed to a new site in Downtown Los Angeles, 
+where it takes on a different relationship to its 
+surroundings. A damaged or dismantled vehi­
+cle is introduced into the scene, becoming part 
+of the same narrative world. Throughout the 
+semester, we move between drawing, model­
+ing, and real-time environments. Using Unre­
+al Engine, we build an atmospheric scene and 
+produce a short cinematic sequence, focusing 
+on how architecture can tell a story beyond its 
+original function.
+Fall 2026
+Semester:
+Aminatou Fall
+Kordae Henry
+Instructors:
+Visual Studies II
+Zian Xu
+Justin Hsu
+Team:
+58
+59
+ 
+﻿
+SCI-Arc
+Zian Xu
+2A
+Visual Studies II
+
+
+=== PDF PAGE 31 ===
+The initial phase focused on isolating the primary geometries of the Leubinger 
+station. By stripping away texture and color, the model highlights the relationship 
+between the long horizontal canopy and the angular service block. These skeletal 
+forms allow for a pure analysis of the building’s massing and structural logic before 
+any environmental or contextual factors are introduced.
+This section documents our detailed investigation into the station’s internal infra­
+structure. The 3D model translates specific site data, including the precise place­
+ment of fuel pumps, service zones, and internal room configurations, into a cohesive 
+spatial logic. By mapping these functional components, we transition from a hollow 
+shell to a fully articulated interior.
+60
+61
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Visual Studies II
+
+
+=== PDF PAGE 32 ===
+The introduction of the “louder” machine element serves as a second protagonist 
+within the narrative. Positioned beneath the fractured canopy, the rusted metal of 
+the machinery provides a sharp material contrast against the matte concrete of the 
+station. This intersection marks the shift from architecture to infrastructure, empha­
+sizing a “ruin within a ruin” where both elements exist in a shared state of decay.
+These frames capture the specific cinematic quality of a Los Angeles afternoon. 
+Harsh sunlight filters through the roof openings to hit the water, casting long, 
+high-contrast shadows across the concrete surfaces. The chosen perspectives em­
+phasize the vast, empty scale of the station, framing it as a derelict shelter that now 
+houses the fractured machine within its hollowed-out remnants.
+62
+63
+﻿
+ 
+SCI-Arc
+Zian Xu
+2A
+Visual Studies II
+
+
+=== PDF PAGE 33 ===
+Lorem Ipsum Fusce in magna et sem consequat.
+64
+65
+﻿
+Semester
+ 
+SCI-Arc
+Scan QR code to get full video
+
+
+=== PDF PAGE 34 ===
+In this studio, we use the fundamentals of ar­
+chitectural design through geometry, form, and 
+spatial organization, focusing on how simple 
+operations can generate complex spatial ideas. 
+As students, we begin by working with basic 
+objects, folding and translating them in 3D 
+space to record their movement as trajectories. 
+These trajectories are then developed into rib­
+bon models, which help us visualize motion, 
+structure, and interior space while introduc­
+ing concepts like massing, ground, section, 
+and datum. Through this process, we learn 
+how 2D information can be transformed into 
+three dimensional form and spatial systems. In 
+the second half of the course, we apply these 
+ideas to a real site by studying Los Angeles 
+State Historic Park, using on-site observation 
+and measurement to inform our design. Build­
+ing on our earlier ribbon studies, we develop a 
+proposal for a public pool and training facility, 
+exploring how curved geometries can trans­
+late into architectural form while responding 
+to the site and program. The project ultimately 
+brings together geometry, spatial thinking, and 
+real-world context into a complete design pro­
+cess.
+Spring 2025
+Semester:
+Matthew Au
+Aminatou Fall
+Angelica Lorenzi
+Ming Feng
+Instructors:
+1B STUDIO
+Interactions II
+66
+67
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+SCI-Arc
+Zian Xu
+
+
+=== PDF PAGE 35 ===
+Origami Diagrams
+68
+69
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+
+
+=== PDF PAGE 36 ===
+Origami Diagrams
+71
+70
+771
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+Ribbon Orthogonal Drawings
+
+
+=== PDF PAGE 37 ===
+Ribbon Oblique Drawing
+72
+73
+Zian Xu
+SCI-Arc
+Interactions II
+1B
+Ribbon Drawing
+
+
+=== PDF PAGE 38 ===
+Pool House Section
+Pool House Plan
+Pool Section
+Pool Plan
+74
+75
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+
+
+=== PDF PAGE 39 ===
+1st Floor Plan
+2nd Floor Plan
+76
+77
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+
+
+=== PDF PAGE 40 ===
+SCI-Arc
+1B
+Sections
+78
+79
+﻿
+ 
+Zian Xu
+SCI-Arc
+Interactions II
+1B
+
+
+=== PDF PAGE 41 ===
+Elevation
+80
+81
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+
+
+=== PDF PAGE 42 ===
+82
+83
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Interactions II
+
+
+=== PDF PAGE 43 ===
+This course introduces visual studies through 
+hands-on material experimentation and fab­
+rication, focusing on how texture, color, and 
+material systems can shape design at differ­
+ent scales. As students, we work in teams to 
+test processes like papier-mâché and casting, 
+learning how to mix paper pulp with glue to 
+create a material that is strong enough to sup­
+port weight. At the same time, we experiment 
+with plaster and silicone molds to study sur­
+face, texture, and detail through casting. These 
+smaller tests lead into a larger final project, 
+where we design and build a full-scale chair 
+using cardboard as the main structure. We 
+then apply layers of pre-mixed colored papi­
+er-mâché to the surface, reinforcing the struc­
+ture while also developing its visual quality. 
+Through this process, the course emphasizes 
+making, problem-solving, and the connection 
+between material experimentation and final 
+form.
+Spring 2025
+Semester:
+Aminatou Fall
+Angelica Lorenzi
+Instructors:
+Visual Studies I
+Zian Xu
+Justin Hsu
+Yucheng Wu
+Boury-Heyler Alix
+Team:
+84
+85
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Visual Studies I
+
+
+=== PDF PAGE 44 ===
+Before settling on a final design, we built a series of quick “sketch models” using 
+gray foam and zip ties. These were meant to be fast and intuitive—the zip ties al­
+lowed us to pull and tension the foam into organic shapes we couldn’t have planned 
+on paper. From this group of studies, we selected the most promising form to devel­
+op into our final chair.
+To find our final look, we experimented with colored papier-mâché made from wet 
+tissue and glue. By layering the pulp, we created these vibrant, tactile swatches. 
+Some are rough and fibrous, while others have a rippled, skin-like texture once dry. 
+These tests became our primary reference for how color and material would behave 
+on the full-scale model.
+86
+87
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Visual Studies I
+
+
+=== PDF PAGE 45 ===
+The final model uses a hidden cardboard skeleton for its structural core, which is 
+then fully encased in layers of hand-applied papier-mâché. While bright yellow de­
+fines the main body, we integrated pops of purple and gray on the back. Inside the 
+“smiley face” cutout, we filled the voids with the same casting materials from our 
+earlier experiments to add a hidden layer of detail.	 ·	
+These frames show our exploration of casting and precision. Using 3D-printed 
+molds as a base, we cast the forms in plaster and two different types of silicone. 
+Each piece features a unique, delicate pattern on its surface—a contrast between the 
+high-tech 3D printed process and the tactile, poured material of the cast itself.
+88
+89
+﻿
+ 
+SCI-Arc
+Zian Xu
+1B
+Visual Studies I
+
+
+=== PDF PAGE 46 ===
+In this studio, we explore architectural design 
+through the process of moving from generated 
+images to spatial and visualized models. As stu­
+dents, we begin by using tools like MidJourney 
+to create a series of experimental graphics, de­
+veloping our own visual language, such as my 
+project “ANCIENT FRAGMENTS,” which 
+combines translucent materials, industrial el­
+ements, and organic forms. These images then 
+become the basis for 3D modeling, where we 
+translate their outlines into irregular volumes 
+and gradually merge multiple forms into more 
+complex compositions. We also apply materi­
+als and textures to give the models a stronger 
+spatial and visual presence. In the final stage, 
+we work collaboratively to combine all of our 
+models into a shared scene called “ZAJEN,” 
+using Unreal Engine to build a collective en­
+vironment that showcases different approach­
+es and styles. Through this process, the studio 
+focuses on how digital generation, modeling, 
+and collaboration can come together to shape 
+new ways of thinking about architecture and 
+representation.
+Fall 2024
+Semester:
+Damijan Jovanovic
+Aminatou Fall
+Kordae Henry
+Michael Rotondi
+Instructors:
+1A STUDIO
+Interactions I
+Zian Xu
+Ariella Shaoulian
+Esmeralda Vargas
+Joey Greiss
+Justin Hsu
+Joori Alwazzan
+Team:
+90
+91
+﻿
+ 
+SCI-Arc
+Zian Xu
+1A
+Interactions I
+
+
+=== PDF PAGE 47 ===
+A 3D IRREGULAR OBJECT, A FUSION OF TRANS­
+PARENT APPEARANCE, MARINE LIFE OF DISTILLA­
+TION TOWER, FUSION OF INDUSTRIAL AND METAL 
+STYLE. THE APPEARANCE IS MADE OF TRANSLU­
+CENT GLASS MATERIAL, WITH COLOR AND TEM­
+PERATURE INSIDE, ASYMMETRIC, USING HIP POP 
+ANCIENT FRAGMENTS
+92
+93
+﻿
+ 
+Interactions I
+
+
+=== PDF PAGE 48 ===
+SCI-Arc
+Zian Xu
+1A
+Interactions I
+94
+95
+
+
+=== PDF PAGE 49 ===
+96
+97
+﻿
+ 
+SCI-Arc
+Zian Xu
+1A
+Interactions I
+
+
+=== PDF PAGE 50 ===
+98
+99
+﻿
+ 
+SCI-Arc
+Zian Xu
+1A
+Interactions I
+
+
+=== PDF PAGE 51 ===
+100
+101
+﻿
+ 
+SCI-Arc
+Zian Xu
+1A
+Interactions I
+
+
+=== PDF PAGE 52 ===
+102
+103
+﻿
+ 
+Scan QR code to get full video
+
+
+=== PDF PAGE 53 ===
+Instructors:
+Claire Phillips
+Spring 2025
+Architects: Le Corbusier, Pierre Jeanneret
+Location: 82 Rue de Villiers, 78300 Poissy, France
+Client: Pierre and Eugénie Savoye
+Topics: Villa, Unesco World Heritage, Concrete
+Style: Modernism, International Style
+Area: 480 square meters / 5,100 square feet
+Project Year: 1928-1931
+The exterior of Villa Savoye is perfect white concrete, from a distance this build­
+ing looks like a perfect white modern ship floating on green grass. Its façade looks 
+seamless from the whole and exudes a feeling of near perfection, a feeling that gives a 
+sense of timelessness and avant-garde purity that doesn’t feel like a building made in 
+that era. The villa exemplifies Le Corbusier’s “Five Points of Architecture,” including 
+pilotis, a flat roof terrace, ribbon windows, an open plan, and a free façade, making 
+it a masterful display of modernist principles (Kroll). The entire villa is like a white 
+box suspended from slender pillars. This bold design approach is more of an exquisite 
+sculpture than a house.
+Semester:
+Forms of writing I
+Approaching this building from the garden, one 
+will not feel the boundary between natural and man-
+made objects. The building has an appearance that 
+does not fit in with the surrounding landscape and 
+environment, but its innovative large glass and lev­
+itation theme does not disturb the visual balance of 
+the surroundings; it is more like levitating above the 
+surroundings, and the innovative large windows give 
+the building warmth. The green grass seems to sepa­
+rate the building from the woods outside, revealing a 
+dreamy living machine, indifferent and unassuming.
+The structure of the Villa Savoye appears to be 
+unaffected by gravity. The elevated structure of the 
+ground floor gives the impression that the subject of 
+the house is suspended in the air, a design that allows 
+circulation between air and space. The columns are 
+very thin and stand like delicate reeds, elegant and 
+firm, allowing the plane of the house to be unrestrict­
+ed by the ground, visually weakening the abruptness 
+that the columns bring to the building itself. This sus­
+pension of solidity gives the villa a weightless visual 
+experience, as if it were not built but suspended.
+In the interior of the villa, Corbusier still utilizes a 
+minimalist style that matches the exterior. The spiral 
+ramp, a key feature, guides visitors from the lower 
+level to the open-air roof terrace. This design choice, 
+in keeping with Corbusier’s concept of an “architec­
+tural promenade,” slows the movement of inhabitants 
+and offers a dynamic spatial experience (Kroll). 
+Ramps are used extensively in the villa, not only as 
+a means of connecting different planes of transporta­
+tion, but also as a stylistic device, allowing the style 
+of the entire house to form an integrated whole, a 
+seamless unfolding of a picture, from the oppressive 
+interior spaces to the freedom of the sky on the top 
+floor.
+From the inside, Villa Savoye is a simple assemblage 
+of planes and lines, a large white box suspended on a 
+few very thin columns. But underneath the seemingly 
+simple minimalist exterior lies the architect’s metic­
+ulous attention to proportion, a perfect combination 
+of different geometric and spiral shapes, a composite 
+shape that wavers on the edge of abstraction. The 
+second-floor wall of the banded window plan ex­
+104
+105
+﻿
+SCI-Arc
+Zian Xu
+1A
+Forms of writing I
+
+
+=== PDF PAGE 54 ===
+Zian Xu
+The surroundings of Villa Savoy are quiet, 
+Sunlight streams through the top-level glass, 
+filtered through white walls to create a ra­
+diant, serene atmosphere. The rooftop gar­
+den—accessed via a gently sloping ramp—
+embodies Corbusier’s philosophy of uniting 
+architecture, nature, and the human spirit 
+(Kroll). The combination of functional design 
+and poetic spatial elements makes the villa a 
+timeless architectural masterpiece.
+When looks back from afar at this large white 
+ship suspended over a green sea, it is still 
+impressed by its originality and boldness. 
+Reinforced concrete was still a new materi­
+al in the early 1900s, and Corbusier’s bold 
+approach to design with thin columns, open 
+floor plans and roof terraces makes this house 
+a feat in architectural history that exudes mo­
+dernity, avant-garde and innovation from the 
+-tends, and this infinity of oversized windows 
+creates a dialog between the interior and 
+nature, a perfect combination of windows and 
+picture frames, revealing a dynamic picture 
+of nature; As Kroll notes, the ribbon windows 
+allow light to flood the living spaces while 
+emphasizing the villa’s industrial aesthetic, a 
+nod to Corbusier’s admiration for the efficien­
+cy of steamships and their streamlined design 
+(Kroll).
+The villa was born in the midst of a period of 
+stylistic change, when people sought to elim­
+inate ornamentation in favor of functionality 
+and universality. However, its purpose tran­
+scends utility. It was not just a dwelling but a 
+conceptual prototype that redefined modern 
+living in the industrial age (Kroll), and an 
+object of imitation for later generations that 
+became the standard bearer of the style.
+inside out, from the design to the construc­
+tion process. This light makes it an example 
+of the fusion of materials and imagination, 
+like a reinforced concrete giant with a soul, 
+steel and concrete as its skeleton, glass and 
+beautiful white paint as its skin; a silent in­
+vitation to rethink the definition of home and 
+architecture. inside out, from the design to the 
+construction process. This light makes it an 
+example of the fusion of materials and imagi­
+nation, like a reinforced concrete giant with a 
+soul, steel and concrete as its skeleton, glass 
+and beautiful white paint as its skin; a silent 
+invitation to rethink the definition of home 
+and architecture.
+Nowadays, Villa Savoye has become a mon­
+ument; it is a bold exploration of a radical 
+quest for art and science in a time of confu­
+sion, a vision of a life free from the con-
+fusion, a vision of a life free from the con­
+straints of tradition, boldly constructed in 
+such a way that it is skillfully erected on 
+ground-floor overhead columns as if it were 
+floating in the air.
+Work cited:
+Arcdaily; Villa Savoye by Le Corbusier: A 
+Masterpiece of Modern Architecture; Written 
+by Andrew Kroll, February 24, 2024
+Benton, Tim (1987). The Villas of Le Corbus­
+ier. New Haven and London: Yale University 
+Press.
+Curtis, William J R (2006). Le Corbusier 
+-Ideas and Forms. London & New York: 
+Phaidon Press.
+106
+107
+﻿
+SCI-Arc
+1A
+Forms of writing I
+
+
+=== PDF PAGE 55 ===
+Quote:
+“ The Grande Arche is not merely a monument, but a portal through 
+which we glimpse the continuum of time—a modern gateway to our col­
+lective future.”
+Keyword: Gateway
+The word “gateway” perfectly describes the architecture of the Grande 
+Arche and the nature it gives to La Défense in Paris. The Grande Arche is 
+an interpretation of the classical arch and a modern reinterpretation of the 
+Arc de Triomphe in the central area of Paris. The Grande Arche has been 
+a striking landmark since its construction, and from the historic center of 
+Paris towards the modern business district of La Défense it represents the 
+entrance to the new city as a threshold. I chose “gateway” as a keyword 
+because it represents the building as a gateway, which can function as a 
+large entrance, but also connects the past and the future of the city in both 
+directions, whether it be from the old city to the new city or in the oppo­
+site direction, symbolizing the crossing. In this exploration I will do so by 
+comparing the Grande Arche to its historical precedents. With the Grande 
+Arche’s shaped design of the entrance and the collection of very bold 
+shapes standing alone, architect Johann Otto wanted to create a sense of 
+openness and transparency in the viewer’s senses; it is reminiscent of the 
+Arc de Triomphe, to which it corresponds, along with the taller buildings, 
+but the exaggerated and narrower blocks of white rectangles also reflect 
+a sense of modernity. It serves as a symbolic link between two different 
+regions and eras in the same city; it emphasizes not only the visual and 
+spatial qualities of the building, but also the narratives embedded in it - 
+narratives of transition, continuity and new beginnings.
+Semester:
+Fall 2024
+Amoreasano Giulia
+Instructors:
+Zian Xu
+History of architecture I
+Grande Arche de la Défense, Paris
+Precedent 1: Siting & Plan; The Arch of Titus, Rome
+The Arch of Titus functioned as one of the earliest and clearest architec­
+tural gateways in Roman urbanism; its position signaled entry into the 
+sacred core of the Forum and marked the culmination of imperial pro­
+cessions. It precisely aligned with the Via Sacra, acting as a ceremonial 
+threshold into the Roman Forum. It not only marked the end of military 
+processions, but also visually connected key parts of the city through its 
+axial alignment. The space surrounding the arch encouraged gathering, 
+reinforcing its public and performative function. Its scale, central pas­
+sage, and placement made it a hinge between everyday civic life and the 
+sacred heart of Rome. The monument’s integration into the processional 
+route gave it temporal and spatial meaning, it was a gate into a narrative 
+space. There is a similarity in the exploration of the location of the Arc de 
+Titus and the Grande Arche, both are landmarks in the central area of ​the 
+city, the “gateway,” which gives a sense of power and space.
+Precedent 2: Form; The Arc de Triomphe, Paris
+The Arc de Triomphe is a monumental gateway and landmark that defines 
+the axial of western Paris; it functions not only as a memorial but also as 
+a spatial marker that frames the city’s ceremonial spine. It dominates its 
+site with symmetry and weight. Its single arch frames space with dramat­
+ic clarity, and the dense sculptural reliefs on its surfaces project symbolic 
+authority. The proportions are deliberate, scaled to the surrounding urban 
+fabric yet clearly meant to be read from a distance. Pedestrians and vehi­
+cles move around and under it, reinforcing its identity as both monument 
+and threshold. Its form does not simply contain space, it stages it, making 
+the passage through feel ceremonial. This form of dialogue between past 
+and present emphasizes a new entrance to the city and its cultural expres­
+sion.
+History of architecture I
+108
+109
+﻿
+ 
+SCI-Arc
+1B
+
+
+=== PDF PAGE 56 ===
+Precedent 3: Elevation; The Gateway of India, Mumbai
+The Gateway of India is one of the most prominent examples of a land­
+mark gateway in South Asia, symbolizing both colonial authority and the 
+point of arrival into the Indian subcontinent. It creates a sense of grandeur 
+through vertical layering and ornament. Built at the edge of the Arabian 
+Sea, combining colonial architectural motifs with local forms. Form a 
+spatial and ceremonial façade that is both decorative and directive. The 
+elevation reinforces its threshold role; dividing water and land, foreign 
+and local. The reliefs of the Grande Arche are very similar to this one in 
+that they are both grid-like patterns, and the glass and steel of the Grande 
+Arche utilize a large number of repetitions of these patterns on the vertical 
+surfaces of the building, with the glass and steel vertically bonded to link 
+the modern transparency with the tradition of the historic building.
+Precedent 4: Detail; Arch of Septimius Severus
+The Arch of Septimius Severus served as a narrative landmark into the 
+political heart of Rome; visitors moved through its visual story of imperial 
+conquest, structured through sculpture. The tiered relief panels that make 
+up the arch tell the story of the emperor’s military expeditions. These 
+carvings serve as more than just ornaments; they direct spectators around 
+the building. The sculpture’s depth and intricacy vary, drawing the view­
+er’s attention to the vaults, columns, and architraves. Ornament becomes 
+a kind of spatial storytelling as each surface element contributes to the 
+monument’s story. The arch’s detailing transforms it into a teaching tool. 
+The modern materials of the Grande Arche appear to be more flat, and the 
+details are an expression of minimalism. 
+Zian Xu
+Precedent 5: Contextualization; The Brandenburg Gate
+The Brandenburg Gate is Berlin’s most iconic architectural gateway, long 
+serving as a symbolic and spatial connector across divided and reunited 
+parts of the city. Built in a neoclassical style with Doric columns, refer­
+ences Athenian democracy while reinforcing its role in the city’s civic and 
+ceremonial life. It is not an isolated object but a connection point between 
+important urban axes. Its location at the end of Unter den Linden. Over the 
+centuries, its meaning has changed; from a royal thoroughfare to a Cold 
+War frontier, illustrating how architecture embodies shifting political and 
+cultural thresholds. The design reflects the harmony of its surroundings, 
+with the overall form and style of the building harmony with the scale and 
+history of the buildings around Berlin, while it asserts its own presence 
+through texture and form. The Grande Arche, located in La Défense, Paris, 
+a modern neighborhood of tall buildings, with its commercial buildings on 
+the side, forms the entrance to Paris from La Défense.
+Image 1: Grande Arche Siting & Plan
+The Grande Arche is located at the end of the central axis of Paris. This 
+area is the La Défense business district, which plays an important role 
+both in terms of space and in shaping the city’s gateway. Like the Arch of 
+Titus, it is also located at a key central axis, forming a hub for transporta­
+tion and citizens in the city. This modern area marks the transition of Paris 
+from a historic city to a modern business district. The wide square in front 
+of the Grande Arche provides public space, separating it from other high-
+rise towers around it, enhancing its visual clarity and autonomy; it also 
+echoes its status as a civic hub. This open space echoes the ceremonial 
+forecourt of the ancient arch, where people can gather, stay and reposition 
+themselves. As a landmark, the Grande Arche becomes a hub of urban 
+planning. 
+History of architecture I
+110
+111
+﻿
+ 
+SCI-Arc
+1B
+
+
+=== PDF PAGE 57 ===
+Image 2: Grande Arche Form
+The Grande Arche is a huge cube, a structure that showcases the arch 
+structure and the symbol of the Gateway. It draws on the precedent of the 
+Arc de Triomphe, whose single arch is simple and recognizable. The New 
+Arc de Triomphe echoes this logic, but inverts its materiality and mass. It 
+replaces stone with steel and glass, which, although not as permanent as 
+stone, can intuitively demonstrate openness and make the building lighter. 
+The huge central void is a passage space, symbolizing accessibility and 
+transparency. The symmetrical composition and strict geometry enhance 
+its status as a city icon. By allowing light and people to pass through, the 
+shape of the New Arc de Triomphe constructs the experience of the thresh­
+old rather than simply closing it off. Such a presence allows the landmark 
+structure and the city to participate in redefining monumentality.
+Image 3: Grande Arche Elevation
+The vertical facade of Grande Arche is composed of a vertical glass and 
+steel grid system that interestingly transforms light and shadow into its 
+decoration. The gridded structure is reminiscent of the facade of the Gate­
+way of India, which uses depth, decoration and proportion to project a 
+threshold, without being monotonous. Although Grande Arche abandons 
+the historical triumphal arch configuration, it has the same architectural 
+function: through transition; the facade achieves this through repetition, 
+scale and lightness of materials. The white inner cladding contrasts with 
+the glass facade, and the reflective glass draws the eye to the sky and 
+deepens the openness of the structure. This design transforms the box-
+shaped gateway into a dynamic part that drives the experience. Transform 
+the facade into a dynamic visual effect, emphasizing the role of this build­
+ing as a gateway.
+Zian Xu
+History of architecture I
+Image 4: Grande Arche Detail
+The architectural details of Grande Arche are full of the simplicity of 
+modern industrial design. The overall feeling is simple and smooth, but 
+the internal details rely on precision and subtle irregularities. Unlike the 
+Arch of Septimius Severus, it has almost no decorative patterns. While 
+the latter needs to tell the story of history and conquest through complex 
+reliefs, Grande Arche only needs to communicate spatial and visual nar­
+ratives through the building itself. Its large glass panels and steel frames 
+introduce different visual spaces and layers. These details reflect their 
+value by retaining the original industrial dryness rather than deliberately 
+decorating. Through these techniques, the details strengthen the concept of 
+gateway; it is not just an entrance, but an architectural system that em­
+phasizes transparency, accessibility and lightness. The entire design trans­
+forms the traditional spatial structure into a detailed experience, guiding 
+users through a modern reinterpretation of the monumental passage.
+112
+113
+﻿
+ 
+SCI-Arc
+1B
+
+
+=== PDF PAGE 58 ===
+Image 5: Grande Arche Contextualization
+Located in the La Défense business district, with Paris’ most modern 
+skyline, the Grande Arche forms the backbone of the area. Much like the 
+Brandenburg Gate in downtown Berlin, it is not only a central point, but 
+also a symbol of historical change and a spatial and physical connection 
+point that organizes the surroundings by defining boundaries and open­
+ing up views. In a deliberate alignment with the Arc de Triomphe and 
+historic Paris, it translates visual and symbolic meanings from distance 
+to time along a central axis; stretching through the centuries. The build­
+ing is surrounded by tall office buildings, but its hollow shape is a unique 
+urban landmark from the front and side. But its modern form blends into 
+the background and does not appear to be intrusive. The surrounding large 
+squares and crossroads create intersections for the building; highlighting 
+centrality. It does not compete with the environment, but reshapes it. As 
+a gateway and a new landmark for the city, it not only divides space, but 
+also connects history and architectural language in a contextualized way, 
+redefining environmental integration as an active gateway.
+Conclusion:
+The gramde arche explores how buildings can serve more than just shel­
+tering functions, they can shape how we experience culture, history, and 
+social change. Louis Kahn’s essay Monumentality reflects this idea by 
+defining monuments as structures that embody permanence and stir collec­
+tive memory. For Kahn, a true monument must go beyond appearance—it 
+should emotionally resonate and mark something larger than its practical 
+use. In contrast, Adrian Forty’s Words and Buildings approaches the idea 
+Zian Xu
+History of architecture I
+of “threshold” as a spatial condition: a moment of transition, a link be­
+tween inside and outside, or between civic and personal life. For Forty, 
+thresholds are not just doors or passages—they’re zones of interaction 
+that structure everyday experience. Though coming from different angles, 
+both writers touch on a shared idea: architecture can anchor people in time 
+and space, helping them locate themselves socially and historically while 
+acting as meaningful urban landmarks.
+My case study, the Grande Arche in La Défense, Paris, captures this dual 
+idea of monumentality and threshold. Positioned at the western end of 
+Paris’s historical axis, its open cube form is both monumental in scale and 
+porous in experience. Like the Arch of Titus, it aligns with the city’s major 
+axis and frames civic movement. Its form recalls the Arc de Triomphe, but 
+instead of stone and sculpted relief, it uses steel and glass, presenting an 
+abstract, modern reimagining of a national monument. The Grande Arche 
+opens space rather than enclosing it—it invites circulation, both physically 
+and symbolically. The visible steel framework and minimalist detailing 
+contrast with the richly carved surfaces of structures like the Arch of Sep­
+timius Severus, foregrounding a new kind of monument; one of openness 
+and flow. Through these gestures, the Grande Arche doesn’t just echo 
+history, it repositions it within a modern urban context.
+
+What makes the Grande Arche powerful is how it expresses the threshold 
+not only through form, but through its integration with the city. It chal­
+lenges the traditional notion of monumentality. Instead of anchoring itself 
+through heavy materiality or ornate symbolism, it uses flatness, transpar­
+ency, and modern construction to suggest a future-facing vision. This calls 
+into question Kahn’s idea of timeless permanence, proposing instead that 
+monuments can be light, flexible, and inviting. At the same time, it ex­
+pands on Forty’s idea of the threshold, turning it into a large-scale urban 
+experience. It becomes more than an object—it becomes a connector of 
+past and future, of tradition and innovation. In doing so, the Grande Arche 
+reframes how we think of monuments today. It proves that monumentality 
+and threshold are not only compatible; they can be combined into a sin­
+gle architectural act that redefines how we encounter space, memory, and 
+progress in the modern city.
+Kahn, Louis. “Monumentality.” In Architectural Theory: A Reader in 
+Philosophy and Culture, edited by Michael Hays.
+Forty, Adrian. “At the Threshold of Architecture.” 2000.
+114
+115
+﻿
+ 
+SCI-Arc
+1B
